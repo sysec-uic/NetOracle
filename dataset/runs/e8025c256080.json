@@ -1,0 +1,41 @@
+{
+ "config": {
+  "family": "E",
+  "workload": "short",
+  "cc": "bbr",
+  "qdisc": "cake",
+  "rtt_ms": 80,
+  "loss_pct": 0.0,
+  "bw_mbit": 25,
+  "buf": "limited",
+  "rep": 0,
+  "run_id": "e8025c256080",
+  "cell_id": "ff282816e27d"
+ },
+ "ts": 1783893927.086777,
+ "short": {
+  "kind": "flow",
+  "flows": 40,
+  "flow_bytes": 200000,
+  "fct_p50_ms": 493.0264190188609,
+  "fct_p95_ms": 494.034041010309,
+  "fct_mean_ms": 493.06456207923475,
+  "fct_max_ms": 495.28986000223085
+ },
+ "counters": {
+  "Tcp_RetransSegs": 0,
+  "Tcp_OutSegs": 4181,
+  "TcpExt_TCPTimeouts": 0,
+  "TcpExt_TCPFastRetrans": 0,
+  "TcpExt_TCPSlowStartRetrans": 0,
+  "TcpExt_TCPLostRetransmit": 0,
+  "TcpExt_TCPSACKReorder": 0,
+  "TcpExt_TCPDSACKRecv": 0
+ },
+ "qdisc": {
+  "qdisc_sent_bytes": 276586,
+  "qdisc_dropped": 0,
+  "qdisc_overlimits": 2580,
+  "qdisc_backlog_bytes": 0
+ }
+}

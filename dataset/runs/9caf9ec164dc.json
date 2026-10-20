@@ -1,0 +1,67 @@
+{
+ "config": {
+  "family": "A",
+  "workload": "bulk",
+  "cc": "illinois",
+  "qdisc": "pfifo_deep",
+  "rtt_ms": 10,
+  "loss_pct": 1.0,
+  "bw_mbit": 100,
+  "buf": "ample",
+  "rep": 1,
+  "run_id": "9caf9ec164dc",
+  "cell_id": "33314e7be718"
+ },
+ "ts": 1783383419.8912966,
+ "ss_mid": {
+  "cwnd": 71,
+  "srtt_ms": 10.498,
+  "rttvar_ms": 0.205,
+  "retrans_total": 148,
+  "delivery_rate_mbps": 73.966256,
+  "pacing_rate_mbps": 94.011552,
+  "ssthresh": 49,
+  "bytes_retrans": 214304
+ },
+ "qdisc_mid": {
+  "qdisc_sent_bytes": 30280902,
+  "qdisc_dropped": 0,
+  "qdisc_overlimits": 16358,
+  "qdisc_backlog_bytes": 4542
+ },
+ "bulk": {
+  "goodput_mbps": 41.103,
+  "recv_mbps": 40.957,
+  "retransmits": 335,
+  "interval_mbps": [
+   44.86,
+   39.85,
+   44.04,
+   51.38,
+   36.7,
+   37.74,
+   38.8,
+   38.8,
+   38.79,
+   40.04
+  ],
+  "max_rtt_us": 10851,
+  "mean_rtt_us": 10500
+ },
+ "counters": {
+  "Tcp_RetransSegs": 380,
+  "Tcp_OutSegs": 41375,
+  "TcpExt_TCPTimeouts": 0,
+  "TcpExt_TCPFastRetrans": 380,
+  "TcpExt_TCPSlowStartRetrans": 0,
+  "TcpExt_TCPLostRetransmit": 9,
+  "TcpExt_TCPSACKReorder": 0,
+  "TcpExt_TCPDSACKRecv": 0
+ },
+ "qdisc": {
+  "qdisc_sent_bytes": 63193108,
+  "qdisc_dropped": 0,
+  "qdisc_overlimits": 33976,
+  "qdisc_backlog_bytes": 0
+ }
+}

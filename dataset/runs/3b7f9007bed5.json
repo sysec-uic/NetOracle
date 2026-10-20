@@ -1,0 +1,42 @@
+{
+ "config": {
+  "family": "P",
+  "workload": "rr",
+  "cc": "vegas",
+  "qdisc": "cake",
+  "rtt_ms": 80,
+  "loss_pct": 0.5,
+  "bw_mbit": 25,
+  "buf": "limited",
+  "rep": 0,
+  "run_id": "3b7f9007bed5",
+  "cell_id": "cffe41f6f26e"
+ },
+ "ts": 1783901934.8546972,
+ "rr": {
+  "kind": "rr",
+  "transactions": 93,
+  "rps": 11.625,
+  "lat_p50_ms": 80.47073698253371,
+  "lat_p95_ms": 80.91541100293398,
+  "lat_p99_ms": 362.92824801057577,
+  "lat_mean_ms": 86.61139416176655,
+  "lat_max_ms": 366.9729299726896
+ },
+ "counters": {
+  "Tcp_RetransSegs": 2,
+  "Tcp_OutSegs": 102,
+  "TcpExt_TCPTimeouts": 0,
+  "TcpExt_TCPFastRetrans": 0,
+  "TcpExt_TCPSlowStartRetrans": 0,
+  "TcpExt_TCPLostRetransmit": 0,
+  "TcpExt_TCPSACKReorder": 0,
+  "TcpExt_TCPDSACKRecv": 0
+ },
+ "qdisc": {
+  "qdisc_sent_bytes": 7590,
+  "qdisc_dropped": 0,
+  "qdisc_overlimits": 0,
+  "qdisc_backlog_bytes": 0
+ }
+}

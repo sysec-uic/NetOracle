@@ -1,7 +1,7 @@
 __pycache__/
 *.pyc
 .venv/
-runs/
+/runs/
 *.log
 results/llm_cache/
 .DS_Store

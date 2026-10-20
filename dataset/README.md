@@ -13,3 +13,7 @@
 Ablation dataset variants (ft-U/R/grid/v2/marked) are omitted; each is
 reproducible from `runs/` via the flags documented in
 `scripts/build_ft_dataset.py` and `scripts/build_marked_assets.py`.
+
+## stackbench/
+
+The 278 StackBench tasks and the 218 leakage-clean task ids, materialized from the frozen matrix; see `dataset/stackbench/README.md` and `scripts/export_stackbench.py`.

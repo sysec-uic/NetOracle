@@ -49,7 +49,7 @@ never end below the kernel default.
 | `scripts/` | all experiment entry points (see `docs/EXPERIMENTS.md`) |
 | `crawler/` | patch-corpus builders (netdev archive, kernel git) |
 | `figures/` | paper-figure reproduction kit (matplotlib + JSON) |
-| `dataset/` | run corpus (`runs/`), fine-tuning set (`ft-all/`), Pantheon tasks |
+| `dataset/` | run corpus (`runs/`), StackBench tasks (`stackbench/`), fine-tuning set (`ft-all/`), Pantheon tasks |
 | `results/` | evaluation outputs backing every table/figure in the paper |
 | `docs/EXPERIMENTS.md` | paper claim → command map |
 

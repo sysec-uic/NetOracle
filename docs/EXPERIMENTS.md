@@ -12,7 +12,7 @@ modules listed in the README.
 | ~25 s per (workload, config, path) run; frozen matrix 456 runs, corpus 1,800+ | `python3 scripts/collect_grid.py --n 400` (densification); `harness/runner.py` is the per-run engine |
 | Noise floor: 0.4–12% CV goodput, <9% latency medians; bimodal tails | `python3 scripts/noise_study.py`; repetitions via `scripts/resweep_reps.py`, analysis via `scripts/resweep_analysis.py` |
 | Patch corpus: 170,762 messages / 21,196 commits / 41,758 BM25 units | `crawler/lore_netdev.py`, `crawler/kernel_git.py`, `crawler/build_corpus.py` |
-| StackBench: 278 tasks, 3 splits, leakage rules | built on the fly by `eval/tasks.py` (consumed by `eval/run_eval.py`) |
+| StackBench: 278 tasks, 3 splits, leakage rules | shipped in `dataset/stackbench/tasks.jsonl` (`python3 scripts/export_stackbench.py` regenerates it from `eval/tasks.py`; `eval/run_eval.py` builds the same tasks in memory) |
 
 ## 2. In-context study (§2.3; Figure 1, Table 1, F1–F4)
 

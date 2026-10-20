@@ -1,0 +1,79 @@
+{
+ "config": {
+  "family": "P",
+  "workload": "mixed",
+  "cc": "bbr",
+  "qdisc": "fq_codel",
+  "rtt_ms": 160,
+  "loss_pct": 0.1,
+  "bw_mbit": 100,
+  "buf": "ample",
+  "rep": 1,
+  "run_id": "576ee085ba74",
+  "cell_id": "87880bb5bb78"
+ },
+ "ts": 1784026318.237744,
+ "ss_mid": {
+  "cwnd": 2676,
+  "srtt_ms": 161.372,
+  "rttvar_ms": 0.233,
+  "retrans_total": 26,
+  "delivery_rate_mbps": 94.50044,
+  "pacing_rate_mbps": 94.685432,
+  "ssthresh": 1392,
+  "bytes_retrans": 37648
+ },
+ "qdisc_mid": {
+  "qdisc_sent_bytes": 36185863,
+  "qdisc_dropped": 14,
+  "qdisc_overlimits": 21864,
+  "qdisc_backlog_bytes": 6056
+ },
+ "rr": {
+  "kind": "rr",
+  "transactions": 50,
+  "rps": 6.25,
+  "lat_p50_ms": 160.1249899249524,
+  "lat_p95_ms": 160.18590098246932,
+  "lat_p99_ms": 160.37216200493276,
+  "lat_mean_ms": 160.12176719494164,
+  "lat_max_ms": 160.37216200493276
+ },
+ "bulk": {
+  "goodput_mbps": 95.771,
+  "recv_mbps": 88.04,
+  "retransmits": 120,
+  "interval_mbps": [
+   106.16,
+   89.13,
+   102.86,
+   87.99,
+   92.58,
+   91.97,
+   100.68,
+   93.38,
+   91.22,
+   94.3,
+   0.0,
+   92.7
+  ],
+  "max_rtt_us": 213302,
+  "mean_rtt_us": 169677
+ },
+ "counters": {
+  "Tcp_RetransSegs": 125,
+  "Tcp_OutSegs": 97358,
+  "TcpExt_TCPTimeouts": 0,
+  "TcpExt_TCPFastRetrans": 125,
+  "TcpExt_TCPSlowStartRetrans": 0,
+  "TcpExt_TCPLostRetransmit": 0,
+  "TcpExt_TCPSACKReorder": 0,
+  "TcpExt_TCPDSACKRecv": 0
+ },
+ "qdisc": {
+  "qdisc_sent_bytes": 147424032,
+  "qdisc_dropped": 66,
+  "qdisc_overlimits": 89265,
+  "qdisc_backlog_bytes": 0
+ }
+}

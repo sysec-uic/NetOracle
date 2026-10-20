@@ -1,0 +1,42 @@
+{
+ "config": {
+  "family": "F",
+  "workload": "rr",
+  "cc": "illinois",
+  "qdisc": "pfifo_deep",
+  "rtt_ms": 10,
+  "loss_pct": 1.0,
+  "bw_mbit": 50,
+  "buf": "ample",
+  "rep": 0,
+  "run_id": "95dce5763e85",
+  "cell_id": "762c1aca8330"
+ },
+ "ts": 1783866247.6999424,
+ "rr": {
+  "kind": "rr",
+  "transactions": 643,
+  "rps": 80.375,
+  "lat_p50_ms": 10.455067997099832,
+  "lat_p95_ms": 10.572795988991857,
+  "lat_p99_ms": 10.813544999109581,
+  "lat_mean_ms": 12.439589330985921,
+  "lat_max_ms": 228.16965001402423
+ },
+ "counters": {
+  "Tcp_RetransSegs": 6,
+  "Tcp_OutSegs": 660,
+  "TcpExt_TCPTimeouts": 0,
+  "TcpExt_TCPFastRetrans": 0,
+  "TcpExt_TCPSlowStartRetrans": 0,
+  "TcpExt_TCPLostRetransmit": 0,
+  "TcpExt_TCPSACKReorder": 0,
+  "TcpExt_TCPDSACKRecv": 0
+ },
+ "qdisc": {
+  "qdisc_sent_bytes": 49228,
+  "qdisc_dropped": 0,
+  "qdisc_overlimits": 0,
+  "qdisc_backlog_bytes": 0
+ }
+}
