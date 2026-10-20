@@ -1,0 +1,51 @@
+[
+ {
+  "epoch": 0,
+  "t_s": 14.0,
+  "config": "cubic/pfifo_deep/ample",
+  "goodput_mbps": 4.595,
+  "move": "bbr/pfifo_deep/ample"
+ },
+ {
+  "epoch": 1,
+  "t_s": 36.2,
+  "config": "bbr/pfifo_deep/ample",
+  "goodput_mbps": 46.155
+ },
+ {
+  "epoch": 2,
+  "t_s": 58.5,
+  "config": "bbr/pfifo_deep/ample",
+  "goodput_mbps": 46.132
+ },
+ {
+  "epoch": 3,
+  "t_s": 71.6,
+  "config": "bbr/pfifo_deep/ample",
+  "goodput_mbps": 46.468
+ },
+ {
+  "epoch": 4,
+  "t_s": 84.6,
+  "config": "bbr/pfifo_deep/ample",
+  "goodput_mbps": 46.364
+ },
+ {
+  "epoch": 5,
+  "t_s": 97.8,
+  "config": "bbr/pfifo_deep/ample",
+  "goodput_mbps": 46.263
+ },
+ {
+  "epoch": 6,
+  "t_s": 110.8,
+  "config": "bbr/pfifo_deep/ample",
+  "goodput_mbps": 46.156
+ },
+ {
+  "epoch": 7,
+  "t_s": 124.0,
+  "config": "bbr/pfifo_deep/ample",
+  "goodput_mbps": 46.551
+ }
+]

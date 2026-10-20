@@ -1,0 +1,124 @@
+[
+ {
+  "epoch": 0,
+  "phase": 0,
+  "t_s": 13.2,
+  "workload": "bulk",
+  "config": "cubic/pfifo_deep/ample",
+  "goodput_mbps": 8.999,
+  "move": "bbr/pfifo_deep/ample"
+ },
+ {
+  "epoch": 1,
+  "phase": 0,
+  "t_s": 29.7,
+  "workload": "bulk",
+  "config": "bbr/pfifo_deep/ample",
+  "goodput_mbps": 46.445
+ },
+ {
+  "epoch": 2,
+  "phase": 0,
+  "t_s": 45.8,
+  "workload": "bulk",
+  "config": "bbr/pfifo_deep/ample",
+  "goodput_mbps": 46.658
+ },
+ {
+  "epoch": 3,
+  "phase": 0,
+  "t_s": 61.8,
+  "workload": "bulk",
+  "config": "bbr/pfifo_deep/ample",
+  "goodput_mbps": 47.577
+ },
+ {
+  "epoch": 4,
+  "phase": 0,
+  "t_s": 77.9,
+  "workload": "bulk",
+  "config": "bbr/pfifo_deep/ample",
+  "goodput_mbps": 46.535
+ },
+ {
+  "epoch": 5,
+  "phase": 1,
+  "t_s": 96.0,
+  "workload": "mixed",
+  "config": "bbr/pfifo_deep/ample",
+  "rr_p99_ms": 27.206297032535076,
+  "move": "bbr/cake/ample"
+ },
+ {
+  "epoch": 6,
+  "phase": 1,
+  "t_s": 114.2,
+  "workload": "mixed",
+  "config": "bbr/cake/ample",
+  "rr_p99_ms": 20.403790986165404
+ },
+ {
+  "epoch": 7,
+  "phase": 1,
+  "t_s": 132.2,
+  "workload": "mixed",
+  "config": "bbr/cake/ample",
+  "rr_p99_ms": 20.404241047799587
+ },
+ {
+  "epoch": 8,
+  "phase": 1,
+  "t_s": 150.1,
+  "workload": "mixed",
+  "config": "bbr/cake/ample",
+  "rr_p99_ms": 20.40821104310453
+ },
+ {
+  "epoch": 9,
+  "phase": 1,
+  "t_s": 168.1,
+  "workload": "mixed",
+  "config": "bbr/cake/ample",
+  "rr_p99_ms": 20.398990949615836
+ },
+ {
+  "epoch": 10,
+  "phase": 2,
+  "t_s": 184.3,
+  "workload": "bulk",
+  "config": "bbr/cake/ample",
+  "goodput_mbps": 91.382
+ },
+ {
+  "epoch": 11,
+  "phase": 2,
+  "t_s": 200.5,
+  "workload": "bulk",
+  "config": "bbr/cake/ample",
+  "goodput_mbps": 91.59
+ },
+ {
+  "epoch": 12,
+  "phase": 2,
+  "t_s": 216.7,
+  "workload": "bulk",
+  "config": "bbr/cake/ample",
+  "goodput_mbps": 91.591
+ },
+ {
+  "epoch": 13,
+  "phase": 2,
+  "t_s": 232.8,
+  "workload": "bulk",
+  "config": "bbr/cake/ample",
+  "goodput_mbps": 91.8
+ },
+ {
+  "epoch": 14,
+  "phase": 2,
+  "t_s": 249.0,
+  "workload": "bulk",
+  "config": "bbr/cake/ample",
+  "goodput_mbps": 91.904
+ }
+]

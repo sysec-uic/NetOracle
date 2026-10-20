@@ -1,0 +1,434 @@
+[
+ {
+  "K": 3,
+  "vote_frac": 0.5,
+  "margin": 0.0,
+  "mean_regret": 0.0027,
+  "max_regret": 0.0055,
+  "mean_meas": 1.9,
+  "regressions": 0
+ },
+ {
+  "K": 3,
+  "vote_frac": 0.5,
+  "margin": 0.05,
+  "mean_regret": 0.0027,
+  "max_regret": 0.0055,
+  "mean_meas": 1.9,
+  "regressions": 0
+ },
+ {
+  "K": 3,
+  "vote_frac": 0.5,
+  "margin": 0.15,
+  "mean_regret": 0.0027,
+  "max_regret": 0.0055,
+  "mean_meas": 1.9,
+  "regressions": 0
+ },
+ {
+  "K": 3,
+  "vote_frac": 0.5,
+  "margin": 0.3,
+  "mean_regret": 0.0027,
+  "max_regret": 0.0055,
+  "mean_meas": 1.9,
+  "regressions": 0
+ },
+ {
+  "K": 3,
+  "vote_frac": 0.6,
+  "margin": 0.0,
+  "mean_regret": 0.0027,
+  "max_regret": 0.0055,
+  "mean_meas": 1.9,
+  "regressions": 0
+ },
+ {
+  "K": 3,
+  "vote_frac": 0.6,
+  "margin": 0.05,
+  "mean_regret": 0.0027,
+  "max_regret": 0.0055,
+  "mean_meas": 1.9,
+  "regressions": 0
+ },
+ {
+  "K": 3,
+  "vote_frac": 0.6,
+  "margin": 0.15,
+  "mean_regret": 0.0027,
+  "max_regret": 0.0055,
+  "mean_meas": 1.9,
+  "regressions": 0
+ },
+ {
+  "K": 3,
+  "vote_frac": 0.6,
+  "margin": 0.3,
+  "mean_regret": 0.0027,
+  "max_regret": 0.0055,
+  "mean_meas": 1.9,
+  "regressions": 0
+ },
+ {
+  "K": 3,
+  "vote_frac": 0.8,
+  "margin": 0.0,
+  "mean_regret": 0.0486,
+  "max_regret": 0.189,
+  "mean_meas": 1.85,
+  "regressions": 0
+ },
+ {
+  "K": 3,
+  "vote_frac": 0.8,
+  "margin": 0.05,
+  "mean_regret": 0.0486,
+  "max_regret": 0.189,
+  "mean_meas": 1.85,
+  "regressions": 0
+ },
+ {
+  "K": 3,
+  "vote_frac": 0.8,
+  "margin": 0.15,
+  "mean_regret": 0.0486,
+  "max_regret": 0.189,
+  "mean_meas": 1.85,
+  "regressions": 0
+ },
+ {
+  "K": 3,
+  "vote_frac": 0.8,
+  "margin": 0.3,
+  "mean_regret": 0.0486,
+  "max_regret": 0.189,
+  "mean_meas": 1.85,
+  "regressions": 0
+ },
+ {
+  "K": 3,
+  "vote_frac": 1.0,
+  "margin": 0.0,
+  "mean_regret": 0.0486,
+  "max_regret": 0.189,
+  "mean_meas": 1.85,
+  "regressions": 0
+ },
+ {
+  "K": 3,
+  "vote_frac": 1.0,
+  "margin": 0.05,
+  "mean_regret": 0.0486,
+  "max_regret": 0.189,
+  "mean_meas": 1.85,
+  "regressions": 0
+ },
+ {
+  "K": 3,
+  "vote_frac": 1.0,
+  "margin": 0.15,
+  "mean_regret": 0.0486,
+  "max_regret": 0.189,
+  "mean_meas": 1.85,
+  "regressions": 0
+ },
+ {
+  "K": 3,
+  "vote_frac": 1.0,
+  "margin": 0.3,
+  "mean_regret": 0.0486,
+  "max_regret": 0.189,
+  "mean_meas": 1.85,
+  "regressions": 0
+ },
+ {
+  "K": 5,
+  "vote_frac": 0.5,
+  "margin": 0.0,
+  "mean_regret": 0.0024,
+  "max_regret": 0.0055,
+  "mean_meas": 2.05,
+  "regressions": 0
+ },
+ {
+  "K": 5,
+  "vote_frac": 0.5,
+  "margin": 0.05,
+  "mean_regret": 0.0024,
+  "max_regret": 0.0055,
+  "mean_meas": 2.05,
+  "regressions": 0
+ },
+ {
+  "K": 5,
+  "vote_frac": 0.5,
+  "margin": 0.15,
+  "mean_regret": 0.0024,
+  "max_regret": 0.0055,
+  "mean_meas": 2.05,
+  "regressions": 0
+ },
+ {
+  "K": 5,
+  "vote_frac": 0.5,
+  "margin": 0.3,
+  "mean_regret": 0.0024,
+  "max_regret": 0.0055,
+  "mean_meas": 2.05,
+  "regressions": 0
+ },
+ {
+  "K": 5,
+  "vote_frac": 0.6,
+  "margin": 0.0,
+  "mean_regret": 0.0024,
+  "max_regret": 0.0055,
+  "mean_meas": 2.05,
+  "regressions": 0
+ },
+ {
+  "K": 5,
+  "vote_frac": 0.6,
+  "margin": 0.05,
+  "mean_regret": 0.0024,
+  "max_regret": 0.0055,
+  "mean_meas": 2.05,
+  "regressions": 0
+ },
+ {
+  "K": 5,
+  "vote_frac": 0.6,
+  "margin": 0.15,
+  "mean_regret": 0.0024,
+  "max_regret": 0.0055,
+  "mean_meas": 2.05,
+  "regressions": 0
+ },
+ {
+  "K": 5,
+  "vote_frac": 0.6,
+  "margin": 0.3,
+  "mean_regret": 0.0024,
+  "max_regret": 0.0055,
+  "mean_meas": 2.05,
+  "regressions": 0
+ },
+ {
+  "K": 5,
+  "vote_frac": 0.8,
+  "margin": 0.0,
+  "mean_regret": 0.0026,
+  "max_regret": 0.0055,
+  "mean_meas": 2,
+  "regressions": 0
+ },
+ {
+  "K": 5,
+  "vote_frac": 0.8,
+  "margin": 0.05,
+  "mean_regret": 0.0026,
+  "max_regret": 0.0055,
+  "mean_meas": 2,
+  "regressions": 0
+ },
+ {
+  "K": 5,
+  "vote_frac": 0.8,
+  "margin": 0.15,
+  "mean_regret": 0.0026,
+  "max_regret": 0.0055,
+  "mean_meas": 2,
+  "regressions": 0
+ },
+ {
+  "K": 5,
+  "vote_frac": 0.8,
+  "margin": 0.3,
+  "mean_regret": 0.0026,
+  "max_regret": 0.0055,
+  "mean_meas": 2,
+  "regressions": 0
+ },
+ {
+  "K": 5,
+  "vote_frac": 1.0,
+  "margin": 0.0,
+  "mean_regret": 0.1402,
+  "max_regret": 0.5558,
+  "mean_meas": 1.85,
+  "regressions": 0
+ },
+ {
+  "K": 5,
+  "vote_frac": 1.0,
+  "margin": 0.05,
+  "mean_regret": 0.1402,
+  "max_regret": 0.5558,
+  "mean_meas": 1.85,
+  "regressions": 0
+ },
+ {
+  "K": 5,
+  "vote_frac": 1.0,
+  "margin": 0.15,
+  "mean_regret": 0.1402,
+  "max_regret": 0.5558,
+  "mean_meas": 1.85,
+  "regressions": 0
+ },
+ {
+  "K": 5,
+  "vote_frac": 1.0,
+  "margin": 0.3,
+  "mean_regret": 0.1402,
+  "max_regret": 0.5558,
+  "mean_meas": 1.85,
+  "regressions": 0
+ },
+ {
+  "K": 10,
+  "vote_frac": 0.5,
+  "margin": 0.0,
+  "mean_regret": 0.002,
+  "max_regret": 0.0055,
+  "mean_meas": 2,
+  "regressions": 0
+ },
+ {
+  "K": 10,
+  "vote_frac": 0.5,
+  "margin": 0.05,
+  "mean_regret": 0.002,
+  "max_regret": 0.0055,
+  "mean_meas": 2,
+  "regressions": 0
+ },
+ {
+  "K": 10,
+  "vote_frac": 0.5,
+  "margin": 0.15,
+  "mean_regret": 0.002,
+  "max_regret": 0.0055,
+  "mean_meas": 2,
+  "regressions": 0
+ },
+ {
+  "K": 10,
+  "vote_frac": 0.5,
+  "margin": 0.3,
+  "mean_regret": 0.002,
+  "max_regret": 0.0055,
+  "mean_meas": 2,
+  "regressions": 0
+ },
+ {
+  "K": 10,
+  "vote_frac": 0.6,
+  "margin": 0.0,
+  "mean_regret": 0.002,
+  "max_regret": 0.0055,
+  "mean_meas": 2,
+  "regressions": 0
+ },
+ {
+  "K": 10,
+  "vote_frac": 0.6,
+  "margin": 0.05,
+  "mean_regret": 0.002,
+  "max_regret": 0.0055,
+  "mean_meas": 2,
+  "regressions": 0
+ },
+ {
+  "K": 10,
+  "vote_frac": 0.6,
+  "margin": 0.15,
+  "mean_regret": 0.002,
+  "max_regret": 0.0055,
+  "mean_meas": 2,
+  "regressions": 0
+ },
+ {
+  "K": 10,
+  "vote_frac": 0.6,
+  "margin": 0.3,
+  "mean_regret": 0.002,
+  "max_regret": 0.0055,
+  "mean_meas": 2,
+  "regressions": 0
+ },
+ {
+  "K": 10,
+  "vote_frac": 0.8,
+  "margin": 0.0,
+  "mean_regret": 0.002,
+  "max_regret": 0.0055,
+  "mean_meas": 2,
+  "regressions": 0
+ },
+ {
+  "K": 10,
+  "vote_frac": 0.8,
+  "margin": 0.05,
+  "mean_regret": 0.002,
+  "max_regret": 0.0055,
+  "mean_meas": 2,
+  "regressions": 0
+ },
+ {
+  "K": 10,
+  "vote_frac": 0.8,
+  "margin": 0.15,
+  "mean_regret": 0.002,
+  "max_regret": 0.0055,
+  "mean_meas": 2,
+  "regressions": 0
+ },
+ {
+  "K": 10,
+  "vote_frac": 0.8,
+  "margin": 0.3,
+  "mean_regret": 0.002,
+  "max_regret": 0.0055,
+  "mean_meas": 2,
+  "regressions": 0
+ },
+ {
+  "K": 10,
+  "vote_frac": 1.0,
+  "margin": 0.0,
+  "mean_regret": 0.2313,
+  "max_regret": 0.9227,
+  "mean_meas": 1.75,
+  "regressions": 0
+ },
+ {
+  "K": 10,
+  "vote_frac": 1.0,
+  "margin": 0.05,
+  "mean_regret": 0.2313,
+  "max_regret": 0.9227,
+  "mean_meas": 1.75,
+  "regressions": 0
+ },
+ {
+  "K": 10,
+  "vote_frac": 1.0,
+  "margin": 0.15,
+  "mean_regret": 0.2313,
+  "max_regret": 0.9227,
+  "mean_meas": 1.75,
+  "regressions": 0
+ },
+ {
+  "K": 10,
+  "vote_frac": 1.0,
+  "margin": 0.3,
+  "mean_regret": 0.2313,
+  "max_regret": 0.9227,
+  "mean_meas": 1.75,
+  "regressions": 0
+ }
+]

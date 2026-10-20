@@ -1,0 +1,218 @@
+{"task_id": "ranking:0", "text": "{\"ranking\": [\"bbr\"]}\n"}
+{"task_id": "ranking:1", "text": "{\"ranking\": [\"bbr\", \"bbr\"]}\n"}
+{"task_id": "ranking:2", "text": "{\"ranking\": [\"bbr\", \"bbr\"]}\n"}
+{"task_id": "ranking:3", "text": "{\"ranking\": [\"bbr\"]}\n"}
+{"task_id": "ranking:4", "text": "{\"ranking\": [\"bbr\", \"bbr\"]}\n"}
+{"task_id": "ranking:5", "text": "{\"ranking\": [\"bbr\", \"westwood\", \"vegas\", \"cubic\", \"illinois\"]}\n"}
+{"task_id": "ranking:6", "text": "{\"ranking\": [\"bbr\"]}\n"}
+{"task_id": "ranking:7", "text": "{\"ranking\": [\"bbr\", \"bbr\"]}\n"}
+{"task_id": "ranking:8", "text": "{\"ranking\": [\"bbr\"]}\n"}
+{"task_id": "ranking:9", "text": "{\"ranking\": [\"bbr\"]}\n"}
+{"task_id": "ranking:10", "text": "{\"ranking\": [\"bbr\", \"bbr\", \"bbr\", \"bbr\", \"bbr\", \"bbr\"]}\n"}
+{"task_id": "ranking:11", "text": "{\"ranking\": [\"bbr\", \"bbr\", \"bbr\", \"bbr\", \"bbr\", \"bbr\"]}\n"}
+{"task_id": "ranking:12", "text": "{\"ranking\": [\"bbr\"]}\n"}
+{"task_id": "ranking:13", "text": "{\"ranking\": [\"bbr\", \"bbr\", \"bbr\", \"bbr\", \"bbr\", \"bbr\"]}\n"}
+{"task_id": "ranking:14", "text": "{\"ranking\": [\"bbr\", \"bbr\"]}\n"}
+{"task_id": "ranking:15", "text": "{\"ranking\": [\"bbr\"]}\n"}
+{"task_id": "ranking:16", "text": "{\"ranking\": [\"bbr\", \"bbr\", \"bbr\", \"bbr\", \"bbr\", \"bbr\"]}\n"}
+{"task_id": "ranking:17", "text": "{\"ranking\": [\"bbr\", \"bbr\"]}\n"}
+{"task_id": "counterfactual:2", "text": "{\"direction\": \"same\", \"ratio\": 1.0}\n"}
+{"task_id": "counterfactual:3", "text": "{\"direction\": \"same\", \"ratio\": 1.03}\n"}
+{"task_id": "counterfactual:4", "text": "{\"direction\": \"decrease\", \"ratio\": 0.126}\n"}
+{"task_id": "counterfactual:5", "text": "{\"direction\": \"same\", \"ratio\": 1.0}\n"}
+{"task_id": "counterfactual:6", "text": "{\"direction\": \"same\", \"ratio\": 1.0}\n"}
+{"task_id": "counterfactual:7", "text": "{\"direction\": \"same\", \"ratio\": 1.03}\n"}
+{"task_id": "counterfactual:8", "text": "{\"direction\": \"decrease\", \"ratio\": 0.129}\n"}
+{"task_id": "counterfactual:11", "text": "{\"direction\": \"same\", \"ratio\": 1.0}\n"}
+{"task_id": "counterfactual:12", "text": "{\"direction\": \"same\", \"ratio\": 1.0}\n"}
+{"task_id": "counterfactual:14", "text": "{\"direction\": \"same\", \"ratio\": 1.0}\n"}
+{"task_id": "counterfactual:15", "text": "{\"direction\": \"same\", \"ratio\": 1.01}\n"}
+{"task_id": "counterfactual:16", "text": "{\"direction\": \"same\", \"ratio\": 1.0}\n"}
+{"task_id": "counterfactual:18", "text": "{\"direction\": \"decrease\", \"ratio\": 0.0406}\n"}
+{"task_id": "counterfactual:19", "text": "{\"direction\": \"same\", \"ratio\": 1.0}\n"}
+{"task_id": "counterfactual:20", "text": "{\"direction\": \"same\", \"ratio\": 1.0}\n"}
+{"task_id": "counterfactual:21", "text": "{\"direction\": \"same\", \"ratio\": 1.0}\n"}
+{"task_id": "counterfactual:22", "text": "{\"direction\": \"decrease\", \"ratio\": 0.736}\n"}
+{"task_id": "counterfactual:23", "text": "{\"direction\": \"increase\", \"ratio\": 1.26}\n"}
+{"task_id": "counterfactual:25", "text": "{\"direction\": \"increase\", \"ratio\": 1.31}\n"}
+{"task_id": "counterfactual:26", "text": "{\"direction\": \"increase\", \"ratio\": 1.26}\n"}
+{"task_id": "counterfactual:28", "text": "{\"direction\": \"same\", \"ratio\": 1.0}\n"}
+{"task_id": "counterfactual:29", "text": "{\"direction\": \"same\", \"ratio\": 1.01}\n"}
+{"task_id": "counterfactual:30", "text": "{\"direction\": \"same\", \"ratio\": 1.0}\n"}
+{"task_id": "counterfactual:31", "text": "{\"direction\": \"same\", \"ratio\": 0.999}\n"}
+{"task_id": "counterfactual:32", "text": "{\"direction\": \"same\", \"ratio\": 1.0}\n"}
+{"task_id": "counterfactual:34", "text": "{\"direction\": \"same\", \"ratio\": 1.0}\n"}
+{"task_id": "counterfactual:37", "text": "{\"direction\": \"increase\", \"ratio\": 1.29}\n"}
+{"task_id": "counterfactual:38", "text": "{\"direction\": \"decrease\", \"ratio\": 0.733}\n"}
+{"task_id": "counterfactual:39", "text": "{\"direction\": \"same\", \"ratio\": 1.0}\n"}
+{"task_id": "counterfactual:42", "text": "{\"direction\": \"same\", \"ratio\": 0.987}\n"}
+{"task_id": "counterfactual:43", "text": "{\"direction\": \"same\", \"ratio\": 1.01}\n"}
+{"task_id": "counterfactual:44", "text": "{\"direction\": \"same\", \"ratio\": 1.0}\n"}
+{"task_id": "counterfactual:45", "text": "{\"direction\": \"same\", \"ratio\": 1.01}\n"}
+{"task_id": "counterfactual:46", "text": "{\"direction\": \"decrease\", \"ratio\": 0.0866}\n"}
+{"task_id": "counterfactual:47", "text": "{\"direction\": \"decrease\", \"ratio\": 0.467}\n"}
+{"task_id": "counterfactual:48", "text": "{\"direction\": \"decrease\", \"ratio\": 0.569}\n"}
+{"task_id": "counterfactual:49", "text": "{\"direction\": \"same\", \"ratio\": 1.0}\n"}
+{"task_id": "counterfactual:50", "text": "{\"direction\": \"increase\", \"ratio\": 1.21}\n"}
+{"task_id": "counterfactual:51", "text": "{\"direction\": \"same\", \"ratio\": 0.999}\n"}
+{"task_id": "counterfactual:52", "text": "{\"direction\": \"decrease\", \"ratio\": 0.136}\n"}
+{"task_id": "counterfactual:53", "text": "{\"direction\": \"same\", \"ratio\": 1.0}\n"}
+{"task_id": "counterfactual:54", "text": "{\"direction\": \"decrease\", \"ratio\": 0.793}\n"}
+{"task_id": "counterfactual:55", "text": "{\"direction\": \"decrease\", \"ratio\": 0.0806}\n"}
+{"task_id": "counterfactual:56", "text": "{\"direction\": \"same\", \"ratio\": 1.0}\n"}
+{"task_id": "counterfactual:57", "text": "{\"direction\": \"same\", \"ratio\": 1.0}\n"}
+{"task_id": "counterfactual:58", "text": "{\"direction\": \"same\", \"ratio\": 0.999}\n"}
+{"task_id": "counterfactual:59", "text": "{\"direction\": \"increase\", \"ratio\": 2.76}\n"}
+{"task_id": "counterfactual:60", "text": "{\"direction\": \"decrease\", \"ratio\": 0.143}\n"}
+{"task_id": "counterfactual:61", "text": "{\"direction\": \"decrease\", \"ratio\": 0.0469}\n"}
+{"task_id": "counterfactual:62", "text": "{\"direction\": \"same\", \"ratio\": 1.0}\n"}
+{"task_id": "counterfactual:63", "text": "{\"direction\": \"same\", \"ratio\": 1.0}\n"}
+{"task_id": "counterfactual:64", "text": "{\"direction\": \"same\", \"ratio\": 0.999}\n"}
+{"task_id": "counterfactual:65", "text": "{\"direction\": \"decrease\", \"ratio\": 0.251}\n"}
+{"task_id": "counterfactual:66", "text": "{\"direction\": \"increase\", \"ratio\": 1.31}\n"}
+{"task_id": "counterfactual:67", "text": "{\"direction\": \"same\", \"ratio\": 0.999}\n"}
+{"task_id": "counterfactual:68", "text": "{\"direction\": \"decrease\", \"ratio\": 0.144}\n"}
+{"task_id": "counterfactual:69", "text": "{\"direction\": \"same\", \"ratio\": 0.999}\n"}
+{"task_id": "counterfactual:70", "text": "{\"direction\": \"same\", \"ratio\": 1.01}\n"}
+{"task_id": "counterfactual:71", "text": "{\"direction\": \"decrease\", \"ratio\": 0.286}\n"}
+{"task_id": "counterfactual:72", "text": "{\"direction\": \"increase\", \"ratio\": 27.7}\n"}
+{"task_id": "counterfactual:73", "text": "{\"direction\": \"increase\", \"ratio\": 15.1}\n"}
+{"task_id": "counterfactual:74", "text": "{\"direction\": \"same\", \"ratio\": 0.999}\n"}
+{"task_id": "counterfactual:75", "text": "{\"direction\": \"decrease\", \"ratio\": 0.133}\n"}
+{"task_id": "counterfactual:76", "text": "{\"direction\": \"decrease\", \"ratio\": 0.496}\n"}
+{"task_id": "counterfactual:77", "text": "{\"direction\": \"decrease\", \"ratio\": 0.364}\n"}
+{"task_id": "counterfactual:78", "text": "{\"direction\": \"decrease\", \"ratio\": 0.254}\n"}
+{"task_id": "counterfactual:79", "text": "{\"direction\": \"increase\", \"ratio\": 1.17}\n"}
+{"task_id": "counterfactual:80", "text": "{\"direction\": \"same\", \"ratio\": 1.0}\n"}
+{"task_id": "counterfactual:81", "text": "{\"direction\": \"increase\", \"ratio\": 2.77}\n"}
+{"task_id": "counterfactual:82", "text": "{\"direction\": \"increase\", \"ratio\": 88.4}\n"}
+{"task_id": "counterfactual:83", "text": "{\"direction\": \"increase\", \"ratio\": 4.01}\n"}
+{"task_id": "counterfactual:84", "text": "{\"direction\": \"increase\", \"ratio\": 3.95}\n"}
+{"task_id": "counterfactual:85", "text": "{\"direction\": \"increase\", \"ratio\": 10.4}\n"}
+{"task_id": "counterfactual:86", "text": "{\"direction\": \"increase\", \"ratio\": 1.76}\n"}
+{"task_id": "counterfactual:87", "text": "{\"direction\": \"decrease\", \"ratio\": 0.233}\n"}
+{"task_id": "counterfactual:88", "text": "{\"direction\": \"decrease\", \"ratio\": 0.0467}\n"}
+{"task_id": "counterfactual:89", "text": "{\"direction\": \"decrease\", \"ratio\": 0.806}\n"}
+{"task_id": "counterfactual:90", "text": "{\"direction\": \"same\", \"ratio\": 1.0}\n"}
+{"task_id": "counterfactual:91", "text": "{\"direction\": \"increase\", \"ratio\": 2.76}\n"}
+{"task_id": "counterfactual:92", "text": "{\"direction\": \"increase\", \"ratio\": 10.7}\n"}
+{"task_id": "counterfactual:93", "text": "{\"direction\": \"increase\", \"ratio\": 4.03}\n"}
+{"task_id": "counterfactual:94", "text": "{\"direction\": \"decrease\", \"ratio\": 0.571}\n"}
+{"task_id": "counterfactual:95", "text": "{\"direction\": \"decrease\", \"ratio\": 0.251}\n"}
+{"task_id": "counterfactual:96", "text": "{\"direction\": \"decrease\", \"ratio\": 0.364}\n"}
+{"task_id": "counterfactual:97", "text": "{\"direction\": \"decrease\", \"ratio\": 0.0469}\n"}
+{"task_id": "counterfactual:98", "text": "{\"direction\": \"increase\", \"ratio\": 4.11}\n"}
+{"task_id": "counterfactual:99", "text": "{\"direction\": \"decrease\", \"ratio\": 0.163}\n"}
+{"task_id": "counterfactual:100", "text": "{\"direction\": \"decrease\", \"ratio\": 0.163}\n"}
+{"task_id": "counterfactual:101", "text": "{\"direction\": \"increase\", \"ratio\": 2.76}\n"}
+{"task_id": "counterfactual:103", "text": "{\"direction\": \"increase\", \"ratio\": 1.27}\n"}
+{"task_id": "counterfactual:109", "text": "{\"direction\": \"same\", \"ratio\": 1.0}\n"}
+{"task_id": "counterfactual:110", "text": "{\"direction\": \"increase\", \"ratio\": 1.21}\n"}
+{"task_id": "counterfactual:111", "text": "{\"direction\": \"same\", \"ratio\": 0.999}\n"}
+{"task_id": "counterfactual:114", "text": "{\"direction\": \"increase\", \"ratio\": 1.43}\n"}
+{"task_id": "counterfactual:116", "text": "{\"direction\": \"increase\", \"ratio\": 1.26}\n"}
+{"task_id": "counterfactual:117", "text": "{\"direction\": \"same\", \"ratio\": 1.0}\n"}
+{"task_id": "counterfactual:118", "text": "{\"direction\": \"increase\", \"ratio\": 1.26}\n"}
+{"task_id": "counterfactual:119", "text": "{\"direction\": \"same\", \"ratio\": 0.999}\n"}
+{"task_id": "counterfactual:121", "text": "{\"direction\": \"decrease\", \"ratio\": 0.723}\n"}
+{"task_id": "counterfactual:125", "text": "{\"direction\": \"increase\", \"ratio\": 1.28}\n"}
+{"task_id": "counterfactual:128", "text": "{\"direction\": \"decrease\", \"ratio\": 0.0403}\n"}
+{"task_id": "counterfactual:129", "text": "{\"direction\": \"decrease\", \"ratio\": 0.146}\n"}
+{"task_id": "counterfactual:130", "text": "{\"direction\": \"same\", \"ratio\": 0.999}\n"}
+{"task_id": "counterfactual:131", "text": "{\"direction\": \"same\", \"ratio\": 0.999}\n"}
+{"task_id": "counterfactual:132", "text": "{\"direction\": \"decrease\", \"ratio\": 0.803}\n"}
+{"task_id": "counterfactual:133", "text": "{\"direction\": \"increase\", \"ratio\": 3.91}\n"}
+{"task_id": "counterfactual:134", "text": "{\"direction\": \"decrease\", \"ratio\": 0.133}\n"}
+{"task_id": "counterfactual:135", "text": "{\"direction\": \"same\", \"ratio\": 1.0}\n"}
+{"task_id": "counterfactual:136", "text": "{\"direction\": \"decrease\", \"ratio\": 0.129}\n"}
+{"task_id": "counterfactual:137", "text": "{\"direction\": \"decrease\", \"ratio\": 0.0826}\n"}
+{"task_id": "counterfactual:138", "text": "{\"direction\": \"decrease\", \"ratio\": 0.161}\n"}
+{"task_id": "counterfactual:139", "text": "{\"direction\": \"same\", \"ratio\": 1.0}\n"}
+{"task_id": "counterfactual:140", "text": "{\"direction\": \"increase\", \"ratio\": 1.98}\n"}
+{"task_id": "counterfactual:141", "text": "{\"direction\": \"decrease\", \"ratio\": 0.131}\n"}
+{"task_id": "counterfactual:142", "text": "{\"direction\": \"increase\", \"ratio\": 1.33}\n"}
+{"task_id": "counterfactual:143", "text": "{\"direction\": \"decrease\", \"ratio\": 0.506}\n"}
+{"task_id": "counterfactual:144", "text": "{\"direction\": \"increase\", \"ratio\": 2.86}\n"}
+{"task_id": "counterfactual:145", "text": "{\"direction\": \"increase\", \"ratio\": 3.89}\n"}
+{"task_id": "counterfactual:146", "text": "{\"direction\": \"increase\", \"ratio\": 1.98}\n"}
+{"task_id": "counterfactual:147", "text": "{\"direction\": \"decrease\", \"ratio\": 0.803}\n"}
+{"task_id": "counterfactual:148", "text": "{\"direction\": \"increase\", \"ratio\": 1.27}\n"}
+{"task_id": "counterfactual:149", "text": "{\"direction\": \"increase\", \"ratio\": 2.76}\n"}
+{"task_id": "counterfactual:150", "text": "{\"direction\": \"decrease\", \"ratio\": 0.733}\n"}
+{"task_id": "counterfactual:151", "text": "{\"direction\": \"increase\", \"ratio\": 1.85}\n"}
+{"task_id": "counterfactual:152", "text": "{\"direction\": \"same\", \"ratio\": 1.0}\n"}
+{"task_id": "counterfactual:153", "text": "{\"direction\": \"increase\", \"ratio\": 3.93}\n"}
+{"task_id": "counterfactual:154", "text": "{\"direction\": \"same\", \"ratio\": 1.0}\n"}
+{"task_id": "counterfactual:155", "text": "{\"direction\": \"decrease\", \"ratio\": 0.126}\n"}
+{"task_id": "counterfactual:156", "text": "{\"direction\": \"increase\", \"ratio\": 1.46}\n"}
+{"task_id": "counterfactual:157", "text": "{\"direction\": \"same\", \"ratio\": 1.0}\n"}
+{"task_id": "counterfactual:158", "text": "{\"direction\": \"increase\", \"ratio\": 7.73}\n"}
+{"task_id": "counterfactual:159", "text": "{\"direction\": \"same\", \"ratio\": 1.0}\n"}
+{"task_id": "counterfactual:160", "text": "{\"direction\": \"decrease\", \"ratio\": 0.131}\n"}
+{"task_id": "counterfactual:161", "text": "{\"direction\": \"increase\", \"ratio\": 1.27}\n"}
+{"task_id": "quantitative:0", "text": "{\"value\": 1.56}\n"}
+{"task_id": "quantitative:1", "text": "{\"value\": 40.96}\n"}
+{"task_id": "quantitative:2", "text": "{\"value\": 10.44}\n"}
+{"task_id": "quantitative:3", "text": "{\"value\": 95.62}\n"}
+{"task_id": "quantitative:4", "text": "{\"value\": 10.46}\n"}
+{"task_id": "quantitative:5", "text": "{\"value\": 160.8}\n"}
+{"task_id": "quantitative:6", "text": "{\"value\": 160.8}\n"}
+{"task_id": "quantitative:7", "text": "{\"value\": 12.36}\n"}
+{"task_id": "quantitative:8", "text": "{\"value\": 160.4}\n"}
+{"task_id": "quantitative:9", "text": "{\"value\": 1.56}\n"}
+{"task_id": "quantitative:10", "text": "{\"value\": 12.36}\n"}
+{"task_id": "quantitative:11", "text": "{\"value\": 12.36}\n"}
+{"task_id": "quantitative:12", "text": "{\"value\": 95.62}\n"}
+{"task_id": "quantitative:13", "text": "{\"value\": 395.6}\n"}
+{"task_id": "quantitative:14", "text": "{\"value\": 10.61}\n"}
+{"task_id": "quantitative:15", "text": "{\"value\": 40.62}\n"}
+{"task_id": "quantitative:16", "text": "{\"value\": 40.92}\n"}
+{"task_id": "quantitative:17", "text": "{\"value\": 12.36}\n"}
+{"task_id": "quantitative:18", "text": "{\"value\": 41.01}\n"}
+{"task_id": "quantitative:19", "text": "{\"value\": 95.62}\n"}
+{"task_id": "quantitative:20", "text": "{\"value\": 93.63}\n"}
+{"task_id": "quantitative:21", "text": "{\"value\": 80.92}\n"}
+{"task_id": "quantitative:22", "text": "{\"value\": 93.63}\n"}
+{"task_id": "quantitative:23", "text": "{\"value\": 10.46}\n"}
+{"task_id": "quantitative:24", "text": "{\"value\": 160.8}\n"}
+{"task_id": "quantitative:25", "text": "{\"value\": 95.62}\n"}
+{"task_id": "quantitative:26", "text": "{\"value\": 1.56}\n"}
+{"task_id": "quantitative:27", "text": "{\"value\": 160.8}\n"}
+{"task_id": "quantitative:28", "text": "{\"value\": 81.01}\n"}
+{"task_id": "quantitative:29", "text": "{\"value\": 102.4}\n"}
+{"task_id": "quantitative:30", "text": "{\"value\": 10.62}\n"}
+{"task_id": "quantitative:31", "text": "{\"value\": 39.56}\n"}
+{"task_id": "quantitative:32", "text": "{\"value\": 10.44}\n"}
+{"task_id": "quantitative:33", "text": "{\"value\": 80.92}\n"}
+{"task_id": "quantitative:34", "text": "{\"value\": 40.76}\n"}
+{"task_id": "quantitative:35", "text": "{\"value\": 80.48}\n"}
+{"task_id": "quantitative:36", "text": "{\"value\": 160.4}\n"}
+{"task_id": "quantitative:37", "text": "{\"value\": 80.92}\n"}
+{"task_id": "quantitative:38", "text": "{\"value\": 95.62}\n"}
+{"task_id": "quantitative:39", "text": "{\"value\": 1.56}\n"}
+{"task_id": "quantitative:40", "text": "{\"value\": 145.6}\n"}
+{"task_id": "quantitative:42", "text": "{\"value\": 103.2}\n"}
+{"task_id": "quantitative:43", "text": "{\"value\": 145.6}\n"}
+{"task_id": "quantitative:44", "text": "{\"value\": 21.21}\n"}
+{"task_id": "quantitative:47", "text": "{\"value\": 80.48}\n"}
+{"task_id": "quantitative:50", "text": "{\"value\": 81.01}\n"}
+{"task_id": "quantitative:52", "text": "{\"value\": 20.61}\n"}
+{"task_id": "quantitative:53", "text": "{\"value\": 80.92}\n"}
+{"task_id": "quantitative:55", "text": "{\"value\": 103.2}\n"}
+{"task_id": "quantitative:56", "text": "{\"value\": 10.46}\n"}
+{"task_id": "quantitative:58", "text": "{\"value\": 93.63}\n"}
+{"task_id": "quantitative:61", "text": "{\"value\": 1.56}\n"}
+{"task_id": "quantitative:64", "text": "{\"value\": 12.36}\n"}
+{"task_id": "quantitative:65", "text": "{\"value\": 1.56}\n"}
+{"task_id": "quantitative:66", "text": "{\"value\": 80.48}\n"}
+{"task_id": "quantitative:67", "text": "{\"value\": 20.61}\n"}
+{"task_id": "quantitative:69", "text": "{\"value\": 40.76}\n"}
+{"task_id": "quantitative:71", "text": "{\"value\": 93.63}\n"}
+{"task_id": "quantitative:74", "text": "{\"value\": 81.01}\n"}
+{"task_id": "quantitative:78", "text": "{\"value\": 10.46}\n"}
+{"task_id": "quantitative:79", "text": "{\"value\": 81.01}\n"}
+{"task_id": "quantitative:81", "text": "{\"value\": 80.96}\n"}
+{"task_id": "quantitative:83", "text": "{\"value\": 93.6}\n"}
+{"task_id": "quantitative:84", "text": "{\"value\": 103.2}\n"}
+{"task_id": "quantitative:86", "text": "{\"value\": 93.63}\n"}
+{"task_id": "quantitative:89", "text": "{\"value\": 10.76}\n"}

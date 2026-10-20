@@ -1,0 +1,224 @@
+[
+ {
+  "env": "bulk_r40_l0.5_b50",
+  "metric": "goodput_mbps",
+  "better": "higher",
+  "steps": [
+   {
+    "config": "cubic/pfifo_deep/ample",
+    "value": 4.803,
+    "move": "bbr/pfifo_deep/ample",
+    "predicted_gain": 4.78
+   },
+   {
+    "config": "bbr/pfifo_deep/ample",
+    "value": 46.551,
+    "move": null,
+    "predicted_gain": null
+   }
+  ],
+  "final_config": "bbr/pfifo_deep/ample",
+  "final_value": 46.551
+ },
+ {
+  "env": "mixed_r40_l2.0_b100",
+  "metric": "rr_p99_ms",
+  "better": "lower",
+  "steps": [
+   {
+    "config": "cubic/pfifo_deep/ample",
+    "value": 40.93138998723589,
+    "move": null,
+    "predicted_gain": null
+   }
+  ],
+  "final_config": "cubic/pfifo_deep/ample",
+  "final_value": 40.93138998723589
+ },
+ {
+  "env": "bulk_r120_l0.1_b200",
+  "metric": "goodput_mbps",
+  "better": "higher",
+  "steps": [
+   {
+    "config": "cubic/pfifo_deep/ample",
+    "value": 4.662,
+    "move": "bbr/pfifo_deep/ample",
+    "predicted_gain": 4.42
+   },
+   {
+    "config": "bbr/pfifo_deep/ample",
+    "value": 189.667,
+    "move": null,
+    "predicted_gain": null
+   }
+  ],
+  "final_config": "bbr/pfifo_deep/ample",
+  "final_value": 189.667
+ },
+ {
+  "env": "rr_r80_l0.5_b25",
+  "metric": "rr_p99_ms",
+  "better": "lower",
+  "steps": [
+   {
+    "config": "cubic/pfifo_deep/ample",
+    "value": 81.1548630008474,
+    "move": null,
+    "predicted_gain": null
+   }
+  ],
+  "final_config": "cubic/pfifo_deep/ample",
+  "final_value": 81.1548630008474
+ },
+ {
+  "env": "mixed_r120_l0.5_b50",
+  "metric": "rr_p99_ms",
+  "better": "lower",
+  "steps": [
+   {
+    "config": "cubic/pfifo_deep/ample",
+    "value": 121.0667029954493,
+    "move": null,
+    "predicted_gain": null
+   }
+  ],
+  "final_config": "cubic/pfifo_deep/ample",
+  "final_value": 121.0667029954493
+ },
+ {
+  "env": "short_r20_l0.5_b200",
+  "metric": "fct_p95_ms",
+  "better": "lower",
+  "steps": [
+   {
+    "config": "cubic/pfifo_deep/ample",
+    "value": 104.23024700139649,
+    "move": null,
+    "predicted_gain": null
+   }
+  ],
+  "final_config": "cubic/pfifo_deep/ample",
+  "final_value": 104.23024700139649
+ },
+ {
+  "env": "short_r80_l1.0_b50",
+  "metric": "fct_p95_ms",
+  "better": "lower",
+  "steps": [
+   {
+    "config": "cubic/pfifo_deep/ample",
+    "value": 687.7984490129165,
+    "move": "bbr/pfifo_deep/ample",
+    "predicted_gain": 1.695
+   },
+   {
+    "config": "bbr/pfifo_deep/ample",
+    "value": 494.3138340022415,
+    "move": null,
+    "predicted_gain": null
+   }
+  ],
+  "final_config": "bbr/pfifo_deep/ample",
+  "final_value": 494.3138340022415
+ },
+ {
+  "env": "bulk_r10_l2.0_b100",
+  "metric": "goodput_mbps",
+  "better": "higher",
+  "steps": [
+   {
+    "config": "cubic/pfifo_deep/ample",
+    "value": 7.018,
+    "move": "bbr/pfifo_deep/ample",
+    "predicted_gain": 11.4
+   },
+   {
+    "config": "bbr/pfifo_deep/ample",
+    "value": 91.427,
+    "move": null,
+    "predicted_gain": null
+   }
+  ],
+  "final_config": "bbr/pfifo_deep/ample",
+  "final_value": 91.427
+ },
+ {
+  "env": "bulk_r160_l0.5_b100",
+  "metric": "goodput_mbps",
+  "better": "higher",
+  "steps": [
+   {
+    "config": "cubic/pfifo_deep/ample",
+    "value": 2.994,
+    "move": "illinois/pfifo_deep/ample",
+    "predicted_gain": 3.73
+   },
+   {
+    "config": "illinois/pfifo_deep/ample",
+    "value": 7.014,
+    "move": "bbr/pfifo_deep/ample",
+    "predicted_gain": 10.4
+   },
+   {
+    "config": "bbr/pfifo_deep/ample",
+    "value": 90.289,
+    "move": null,
+    "predicted_gain": null
+   }
+  ],
+  "final_config": "bbr/pfifo_deep/ample",
+  "final_value": 90.289
+ },
+ {
+  "env": "mixed_r160_l0.1_b100",
+  "metric": "rr_p99_ms",
+  "better": "lower",
+  "steps": [
+   {
+    "config": "cubic/pfifo_deep/ample",
+    "value": 272.613598004682,
+    "move": "vegas/pfifo_deep/ample",
+    "predicted_gain": 1.701
+   },
+   {
+    "config": "vegas/pfifo_deep/ample",
+    "value": 161.12490301020443,
+    "move": null,
+    "predicted_gain": null
+   }
+  ],
+  "final_config": "vegas/pfifo_deep/ample",
+  "final_value": 161.12490301020443
+ },
+ {
+  "env": "bulk_r20_l0.0_b400",
+  "metric": "goodput_mbps",
+  "better": "higher",
+  "steps": [
+   {
+    "config": "cubic/pfifo_deep/ample",
+    "value": 382.468,
+    "move": null,
+    "predicted_gain": null
+   }
+  ],
+  "final_config": "cubic/pfifo_deep/ample",
+  "final_value": 382.468
+ },
+ {
+  "env": "mixed_r40_l0.5_b400",
+  "metric": "rr_p99_ms",
+  "better": "lower",
+  "steps": [
+   {
+    "config": "cubic/pfifo_deep/ample",
+    "value": 40.81649502040818,
+    "move": null,
+    "predicted_gain": null
+   }
+  ],
+  "final_config": "cubic/pfifo_deep/ample",
+  "final_value": 40.81649502040818
+ }
+]

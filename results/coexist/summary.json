@@ -1,0 +1,408 @@
+[
+ {
+  "block": "boundary",
+  "env": "clean_deep",
+  "n_comp": 1,
+  "before": {
+   "controlled_cc": "cubic",
+   "qdisc": "pfifo_deep",
+   "bw": 100,
+   "controlled_mbps": 49.82,
+   "competitor_mbps": 45.78,
+   "competitor_rtt_ms": 140.5,
+   "jain": 0.998,
+   "total_mbps": 95.65,
+   "reps": 3
+  },
+  "after": {
+   "controlled_cc": "bbr",
+   "qdisc": "pfifo_deep",
+   "bw": 100,
+   "controlled_mbps": 27.36,
+   "competitor_mbps": 68.31,
+   "competitor_rtt_ms": 137.2,
+   "jain": 0.845,
+   "total_mbps": 95.63,
+   "reps": 3
+  },
+  "competitor_change_pct": 49.2,
+  "competitor_rtt_change_pct": -2.3
+ },
+ {
+  "block": "boundary",
+  "env": "clean_shallow",
+  "n_comp": 1,
+  "before": {
+   "controlled_cc": "cubic",
+   "qdisc": "pfifo_bdp",
+   "bw": 100,
+   "controlled_mbps": 47.76,
+   "competitor_mbps": 47.88,
+   "competitor_rtt_ms": 71.2,
+   "jain": 0.999,
+   "total_mbps": 95.65,
+   "reps": 3
+  },
+  "after": {
+   "controlled_cc": "bbr",
+   "qdisc": "pfifo_bdp",
+   "bw": 100,
+   "controlled_mbps": 81.77,
+   "competitor_mbps": 12.13,
+   "competitor_rtt_ms": 67.8,
+   "jain": 0.645,
+   "total_mbps": 94.07,
+   "reps": 3
+  },
+  "competitor_change_pct": -74.7,
+  "competitor_rtt_change_pct": -4.8
+ },
+ {
+  "block": "lossy",
+  "env": "S00",
+  "n_comp": 1,
+  "before": {
+   "controlled_cc": "cubic",
+   "qdisc": "pfifo_deep",
+   "bw": 25,
+   "controlled_mbps": 8.26,
+   "competitor_mbps": 8.93,
+   "competitor_rtt_ms": 20.8,
+   "jain": 0.998,
+   "total_mbps": 17.27,
+   "reps": 3
+  },
+  "after": {
+   "controlled_cc": "bbr",
+   "qdisc": "pfifo_deep",
+   "bw": 25,
+   "controlled_mbps": 18.81,
+   "competitor_mbps": 4.82,
+   "competitor_rtt_ms": 40.1,
+   "jain": 0.741,
+   "total_mbps": 23.58,
+   "reps": 3
+  },
+  "competitor_change_pct": -46.0,
+  "competitor_rtt_change_pct": 92.8
+ },
+ {
+  "block": "lossy",
+  "env": "S01",
+  "n_comp": 1,
+  "before": {
+   "controlled_cc": "cubic",
+   "qdisc": "pfifo_deep",
+   "bw": 100,
+   "controlled_mbps": 3.43,
+   "competitor_mbps": 3.06,
+   "competitor_rtt_ms": 42.0,
+   "jain": 0.997,
+   "total_mbps": 6.32,
+   "reps": 3
+  },
+  "after": {
+   "controlled_cc": "bbr",
+   "qdisc": "pfifo_deep",
+   "bw": 100,
+   "controlled_mbps": 89.93,
+   "competitor_mbps": 2.68,
+   "competitor_rtt_ms": 43.8,
+   "jain": 0.53,
+   "total_mbps": 92.61,
+   "reps": 3
+  },
+  "competitor_change_pct": -12.4,
+  "competitor_rtt_change_pct": 4.3
+ },
+ {
+  "block": "lossy",
+  "env": "S01",
+  "n_comp": 3,
+  "before": {
+   "controlled_cc": "cubic",
+   "qdisc": "pfifo_deep",
+   "bw": 100,
+   "controlled_mbps": 2.93,
+   "competitor_mbps": 3.18,
+   "competitor_rtt_ms": 41.4,
+   "jain": 0.996,
+   "total_mbps": 12.31,
+   "reps": 3
+  },
+  "after": {
+   "controlled_cc": "bbr",
+   "qdisc": "pfifo_deep",
+   "bw": 100,
+   "controlled_mbps": 85.22,
+   "competitor_mbps": 2.6,
+   "competitor_rtt_ms": 48.5,
+   "jain": 0.297,
+   "total_mbps": 93.13,
+   "reps": 3
+  },
+  "competitor_change_pct": -18.2,
+  "competitor_rtt_change_pct": 17.1
+ },
+ {
+  "block": "lossy",
+  "env": "S02",
+  "n_comp": 1,
+  "before": {
+   "controlled_cc": "cubic",
+   "qdisc": "pfifo_deep",
+   "bw": 50,
+   "controlled_mbps": 1.38,
+   "competitor_mbps": 1.51,
+   "competitor_rtt_ms": 63.1,
+   "jain": 0.998,
+   "total_mbps": 2.89,
+   "reps": 3
+  },
+  "after": {
+   "controlled_cc": "bbr",
+   "qdisc": "pfifo_deep",
+   "bw": 50,
+   "controlled_mbps": 44.02,
+   "competitor_mbps": 1.3,
+   "competitor_rtt_ms": 65.8,
+   "jain": 0.529,
+   "total_mbps": 45.31,
+   "reps": 3
+  },
+  "competitor_change_pct": -13.9,
+  "competitor_rtt_change_pct": 4.3
+ },
+ {
+  "block": "lossy",
+  "env": "S03",
+  "n_comp": 1,
+  "before": {
+   "controlled_cc": "cubic",
+   "qdisc": "pfifo_deep",
+   "bw": 200,
+   "controlled_mbps": 2.13,
+   "competitor_mbps": 2.59,
+   "competitor_rtt_ms": 80.8,
+   "jain": 0.996,
+   "total_mbps": 4.64,
+   "reps": 3
+  },
+  "after": {
+   "controlled_cc": "bbr",
+   "qdisc": "pfifo_deep",
+   "bw": 200,
+   "controlled_mbps": 181.63,
+   "competitor_mbps": 2.42,
+   "competitor_rtt_ms": 83.0,
+   "jain": 0.513,
+   "total_mbps": 184.05,
+   "reps": 3
+  },
+  "competitor_change_pct": -6.6,
+  "competitor_rtt_change_pct": 2.7
+ },
+ {
+  "block": "lossy",
+  "env": "S03",
+  "n_comp": 3,
+  "before": {
+   "controlled_cc": "cubic",
+   "qdisc": "pfifo_deep",
+   "bw": 200,
+   "controlled_mbps": 2.59,
+   "competitor_mbps": 2.33,
+   "competitor_rtt_ms": 81.3,
+   "jain": 0.989,
+   "total_mbps": 9.62,
+   "reps": 3
+  },
+  "after": {
+   "controlled_cc": "bbr",
+   "qdisc": "pfifo_deep",
+   "bw": 200,
+   "controlled_mbps": 177.76,
+   "competitor_mbps": 2.34,
+   "competitor_rtt_ms": 83.9,
+   "jain": 0.27,
+   "total_mbps": 184.78,
+   "reps": 3
+  },
+  "competitor_change_pct": 0.4,
+  "competitor_rtt_change_pct": 3.2
+ },
+ {
+  "block": "lossy",
+  "env": "S04",
+  "n_comp": 1,
+  "before": {
+   "controlled_cc": "cubic",
+   "qdisc": "pfifo_deep",
+   "bw": 75,
+   "controlled_mbps": 1.04,
+   "competitor_mbps": 1.17,
+   "competitor_rtt_ms": 122.1,
+   "jain": 1.0,
+   "total_mbps": 2.3,
+   "reps": 3
+  },
+  "after": {
+   "controlled_cc": "bbr",
+   "qdisc": "pfifo_deep",
+   "bw": 75,
+   "controlled_mbps": 65.48,
+   "competitor_mbps": 1.04,
+   "competitor_rtt_ms": 123.5,
+   "jain": 0.516,
+   "total_mbps": 66.44,
+   "reps": 3
+  },
+  "competitor_change_pct": -11.1,
+  "competitor_rtt_change_pct": 1.1
+ },
+ {
+  "block": "lossy",
+  "env": "S05",
+  "n_comp": 1,
+  "before": {
+   "controlled_cc": "cubic",
+   "qdisc": "pfifo_deep",
+   "bw": 100,
+   "controlled_mbps": 1.38,
+   "competitor_mbps": 1.5,
+   "competitor_rtt_ms": 161.0,
+   "jain": 0.997,
+   "total_mbps": 3.08,
+   "reps": 3
+  },
+  "after": {
+   "controlled_cc": "bbr",
+   "qdisc": "pfifo_deep",
+   "bw": 100,
+   "controlled_mbps": 89.47,
+   "competitor_mbps": 1.58,
+   "competitor_rtt_ms": 165.6,
+   "jain": 0.518,
+   "total_mbps": 90.85,
+   "reps": 3
+  },
+  "competitor_change_pct": 5.3,
+  "competitor_rtt_change_pct": 2.9
+ },
+ {
+  "block": "queue",
+  "env": "S12",
+  "n_comp": 1,
+  "before": {
+   "controlled_cc": "cubic",
+   "qdisc": "pfifo_deep",
+   "bw": 100,
+   "controlled_mbps": 44.22,
+   "competitor_mbps": 51.4,
+   "competitor_rtt_ms": 114.0,
+   "jain": 0.994,
+   "total_mbps": 95.62,
+   "reps": 3
+  },
+  "after": {
+   "controlled_cc": "cubic",
+   "qdisc": "fq_codel",
+   "bw": 100,
+   "controlled_mbps": 47.8,
+   "competitor_mbps": 47.8,
+   "competitor_rtt_ms": 14.1,
+   "jain": 1.0,
+   "total_mbps": 95.59,
+   "reps": 3
+  },
+  "competitor_change_pct": -7.0,
+  "competitor_rtt_change_pct": -87.6
+ },
+ {
+  "block": "queue",
+  "env": "S12",
+  "n_comp": 3,
+  "before": {
+   "controlled_cc": "cubic",
+   "qdisc": "pfifo_deep",
+   "bw": 100,
+   "controlled_mbps": 24.76,
+   "competitor_mbps": 23.64,
+   "competitor_rtt_ms": 112.6,
+   "jain": 0.976,
+   "total_mbps": 95.67,
+   "reps": 3
+  },
+  "after": {
+   "controlled_cc": "cubic",
+   "qdisc": "fq_codel",
+   "bw": 100,
+   "controlled_mbps": 23.94,
+   "competitor_mbps": 23.94,
+   "competitor_rtt_ms": 14.7,
+   "jain": 1.0,
+   "total_mbps": 95.76,
+   "reps": 3
+  },
+  "competitor_change_pct": 1.3,
+  "competitor_rtt_change_pct": -86.9
+ },
+ {
+  "block": "queue",
+  "env": "S13",
+  "n_comp": 1,
+  "before": {
+   "controlled_cc": "cubic",
+   "qdisc": "pfifo_deep",
+   "bw": 200,
+   "controlled_mbps": 97.43,
+   "competitor_mbps": 93.87,
+   "competitor_rtt_ms": 71.0,
+   "jain": 0.995,
+   "total_mbps": 191.29,
+   "reps": 3
+  },
+  "after": {
+   "controlled_cc": "cubic",
+   "qdisc": "fq",
+   "bw": 200,
+   "controlled_mbps": 95.63,
+   "competitor_mbps": 95.64,
+   "competitor_rtt_ms": 28.4,
+   "jain": 1.0,
+   "total_mbps": 191.27,
+   "reps": 3
+  },
+  "competitor_change_pct": 1.9,
+  "competitor_rtt_change_pct": -60.0
+ },
+ {
+  "block": "queue",
+  "env": "S15",
+  "n_comp": 1,
+  "before": {
+   "controlled_cc": "cubic",
+   "qdisc": "pfifo_deep",
+   "bw": 75,
+   "controlled_mbps": 44.48,
+   "competitor_mbps": 27.25,
+   "competitor_rtt_ms": 208.3,
+   "jain": 0.945,
+   "total_mbps": 71.73,
+   "reps": 3
+  },
+  "after": {
+   "controlled_cc": "cubic",
+   "qdisc": "fq_codel",
+   "bw": 75,
+   "controlled_mbps": 31.73,
+   "competitor_mbps": 31.73,
+   "competitor_rtt_ms": 81.3,
+   "jain": 1.0,
+   "total_mbps": 63.47,
+   "reps": 3
+  },
+  "competitor_change_pct": 16.4,
+  "competitor_rtt_change_pct": -61.0
+ }
+]

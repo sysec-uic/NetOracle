@@ -1,0 +1,162 @@
+[
+ {
+  "cell": "bulk/bbr/pfifo_bdp/160/0.5/100/ample",
+  "metric": "goodput_mbps",
+  "n": 5,
+  "mean": 54.831,
+  "cv": 0.3465,
+  "min": 27.967,
+  "max": 79.927,
+  "spread_ratio": 2.858
+ },
+ {
+  "cell": "bulk/bbr/pfifo_deep/40/0.5/50/ample",
+  "metric": "goodput_mbps",
+  "n": 5,
+  "mean": 46.439,
+  "cv": 0.0038,
+  "min": 46.241,
+  "max": 46.673,
+  "spread_ratio": 1.009
+ },
+ {
+  "cell": "bulk/cubic/pfifo_deep/40/0.5/50/ample",
+  "metric": "goodput_mbps",
+  "n": 5,
+  "mean": 4.428,
+  "cv": 0.105,
+  "min": 3.655,
+  "max": 4.909,
+  "spread_ratio": 1.343
+ },
+ {
+  "cell": "bulk/cubic/pfifo_deep/160/0.5/100/ample",
+  "metric": "goodput_mbps",
+  "n": 5,
+  "mean": 2.373,
+  "cv": 0.1969,
+  "min": 2.064,
+  "max": 3.199,
+  "spread_ratio": 1.55
+ },
+ {
+  "cell": "mixed/bbr/cake/160/0.1/100/ample",
+  "metric": "rr_p99_ms",
+  "n": 5,
+  "mean": 306.023,
+  "cv": 0.6524,
+  "min": 160.177,
+  "max": 527.984,
+  "spread_ratio": 3.296
+ },
+ {
+  "cell": "mixed/bbr/cake/160/0.1/100/ample",
+  "metric": "goodput_mbps",
+  "n": 5,
+  "mean": 84.539,
+  "cv": 0.0427,
+  "min": 80.106,
+  "max": 88.47,
+  "spread_ratio": 1.104
+ },
+ {
+  "cell": "mixed/cubic/fq_codel/40/2.0/100/ample",
+  "metric": "rr_p99_ms",
+  "n": 5,
+  "mean": 236.703,
+  "cv": 0.4626,
+  "min": 40.853,
+  "max": 287.22,
+  "spread_ratio": 7.031
+ },
+ {
+  "cell": "mixed/cubic/fq_codel/40/2.0/100/ample",
+  "metric": "goodput_mbps",
+  "n": 5,
+  "mean": 2.194,
+  "cv": 0.0947,
+  "min": 1.916,
+  "max": 2.438,
+  "spread_ratio": 1.272
+ },
+ {
+  "cell": "mixed/cubic/pfifo_deep/40/2.0/100/ample",
+  "metric": "rr_p99_ms",
+  "n": 5,
+  "mean": 236.254,
+  "cv": 0.4623,
+  "min": 40.915,
+  "max": 288.219,
+  "spread_ratio": 7.044
+ },
+ {
+  "cell": "mixed/cubic/pfifo_deep/40/2.0/100/ample",
+  "metric": "goodput_mbps",
+  "n": 5,
+  "mean": 2.038,
+  "cv": 0.123,
+  "min": 1.829,
+  "max": 2.438,
+  "spread_ratio": 1.333
+ },
+ {
+  "cell": "mixed/cubic/pfifo_deep/160/0.1/100/ample",
+  "metric": "rr_p99_ms",
+  "n": 5,
+  "mean": 183.694,
+  "cv": 0.2832,
+  "min": 160.252,
+  "max": 276.761,
+  "spread_ratio": 1.727
+ },
+ {
+  "cell": "mixed/cubic/pfifo_deep/160/0.1/100/ample",
+  "metric": "goodput_mbps",
+  "n": 5,
+  "mean": 9.088,
+  "cv": 0.5378,
+  "min": 4.398,
+  "max": 17.332,
+  "spread_ratio": 3.941
+ },
+ {
+  "cell": "rr/cubic/pfifo_deep/80/0.5/25/ample",
+  "metric": "rr_p99_ms",
+  "n": 5,
+  "mean": 137.333,
+  "cv": 0.92,
+  "min": 80.794,
+  "max": 363.343,
+  "spread_ratio": 4.497
+ },
+ {
+  "cell": "rr/cubic/pfifo_deep/80/0.5/25/ample",
+  "metric": "rr_p50_ms",
+  "n": 5,
+  "mean": 80.606,
+  "cv": 0.0002,
+  "min": 80.591,
+  "max": 80.63,
+  "spread_ratio": 1.0
+ },
+ {
+  "cell": "short/cubic/pfifo_deep/80/1.0/50/ample",
+  "metric": "fct_p95_ms",
+  "n": 5,
+  "mean": 419.343,
+  "cv": 0.085,
+  "min": 403.279,
+  "max": 483.141,
+  "spread_ratio": 1.198
+ },
+ {
+  "cell": "short/cubic/pfifo_deep/80/1.0/50/ample",
+  "metric": "fct_p50_ms",
+  "n": 5,
+  "mean": 402.73,
+  "cv": 0.0002,
+  "min": 402.644,
+  "max": 402.803,
+  "spread_ratio": 1.0
+ }
+]

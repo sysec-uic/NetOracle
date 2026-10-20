@@ -1,0 +1,218 @@
+{"task_id": "ranking:0", "text": "\n</think>\n\n{\"ranking\": [\"bbr\", \"westwood\", \"cubic\", \"illinois\", \"reno\", \"vegas\"]}\n"}
+{"task_id": "ranking:1", "text": "\n</think>\n\n{\"ranking\": [\"bbr\", \"illinois\", \"westwood\", \"cubic\", \"reno\", \"vegas\"]}\n"}
+{"task_id": "ranking:2", "text": "\n</think>\n\n{\"ranking\": [\"bbr\", \"illinois\", \"westwood\", \"cubic\", \"reno\", \"vegas\"]}\n"}
+{"task_id": "ranking:3", "text": "\n</think>\n\n{\"ranking\": [\"bbr\", \"cubic\", \"illinois\", \"reno\", \"westwood\", \"vegas\"]}\n"}
+{"task_id": "ranking:4", "text": "\n</think>\n\n{\"ranking\": [\"bbr\", \"illinois\", \"westwood\", \"cubic\", \"reno\", \"vegas\"]}\n"}
+{"task_id": "ranking:5", "text": "\n</think>\n\n{\"ranking\": [\"bbr\", \"illinois\", \"westwood\", \"cubic\", \"reno\", \"vegas\"]}\n"}
+{"task_id": "ranking:6", "text": "\n</think>\n\n{\"ranking\": [\"bbr\", \"cubic\", \"illinois\", \"reno\", \"vegas\", \"westwood\"]}\n"}
+{"task_id": "ranking:7", "text": "\n</think>\n\n{\"ranking\": [\"bbr\", \"illinois\", \"westwood\", \"cubic\", \"reno\", \"vegas\"]}\n"}
+{"task_id": "ranking:8", "text": "\n</think>\n\n{\"ranking\": [\"bbr\", \"illinois\", \"westwood\", \"cubic\", \"reno\", \"vegas\"]}\n"}
+{"task_id": "ranking:9", "text": "\n</think>\n\n{\"ranking\": [\"bbr\", \"westwood\", \"illinois\", \"cubic\", \"reno\", \"vegas\"]}\n"}
+{"task_id": "ranking:10", "text": "\n</think>\n\n{\"ranking\": [\"bbr\", \"westwood\", \"illinois\", \"cubic\", \"reno\", \"vegas\"]}\n"}
+{"task_id": "ranking:11", "text": "\n</think>\n\n{\"ranking\": [\"illinois\", \"bbr\", \"westwood\", \"cubic\", \"reno\", \"vegas\"]}\n"}
+{"task_id": "ranking:12", "text": "\n</think>\n\n{\"ranking\": [\"bbr\", \"westwood\", \"illinois\", \"cubic\", \"reno\", \"vegas\"]}\n"}
+{"task_id": "ranking:13", "text": "\n</think>\n\n{\"ranking\": [\"bbr\", \"illinois\", \"westwood\", \"cubic\", \"reno\", \"vegas\"]}\n"}
+{"task_id": "ranking:14", "text": "\n</think>\n\n{\"ranking\": [\"illinois\", \"bbr\", \"westwood\", \"reno\", \"cubic\", \"vegas\"]}\n"}
+{"task_id": "ranking:15", "text": "\n</think>\n\n{\"ranking\": [\"reno\", \"vegas\", \"cubic\", \"westwood\", \"illinois\", \"bbr\"]}\n"}
+{"task_id": "ranking:16", "text": "\n</think>\n\n{\"ranking\": [\"bbr\", \"illinois\", \"westwood\", \"cubic\", \"reno\", \"vegas\"]}\n"}
+{"task_id": "ranking:17", "text": "\n</think>\n\n{\"ranking\": [\"illinois\", \"bbr\", \"westwood\", \"reno\", \"cubic\", \"vegas\"]}\n"}
+{"task_id": "counterfactual:2", "text": "\n</think>\n\n{\"direction\": \"decrease\", \"ratio\": 0.32}\n"}
+{"task_id": "counterfactual:3", "text": "\n</think>\n\n{\"direction\": \"same\", \"ratio\": 1.02}\n"}
+{"task_id": "counterfactual:4", "text": "\n</think>\n\n{\"direction\": \"decrease\", \"ratio\": 0.13}\n"}
+{"task_id": "counterfactual:5", "text": "\n</think>\n\n{\"direction\": \"increase\", \"ratio\": 3.12}\n"}
+{"task_id": "counterfactual:6", "text": "\n</think>\n\n{\"direction\": \"same\", \"ratio\": 1.0}\n"}
+{"task_id": "counterfactual:7", "text": "\n</think>\n\n{\"direction\": \"decrease\", \"ratio\": 0.162}\n"}
+{"task_id": "counterfactual:8", "text": "\n</think>\n\n{\"direction\": \"decrease\", \"ratio\": 0.32}\n"}
+{"task_id": "counterfactual:11", "text": "\n</think>\n\n{\"direction\": \"increase\", \"ratio\": 3.12}\n"}
+{"task_id": "counterfactual:12", "text": "\n</think>\n\n{\"direction\": \"same\", \"ratio\": 1.01}\n"}
+{"task_id": "counterfactual:14", "text": "\n</think>\n\n{\"direction\": \"same\", \"ratio\": 1.0}\n"}
+{"task_id": "counterfactual:15", "text": "\n</think>\n\n{\"direction\": \"same\", \"ratio\": 1.01}\n"}
+{"task_id": "counterfactual:16", "text": "\n</think>\n\n{\"direction\": \"same\", \"ratio\": 1.01}\n"}
+{"task_id": "counterfactual:18", "text": "\n</think>\n\n{\"direction\": \"decrease\", \"ratio\": 0.0476}\n"}
+{"task_id": "counterfactual:19", "text": "\n</think>\n\n{\"direction\": \"same\", \"ratio\": 1.01}\n"}
+{"task_id": "counterfactual:20", "text": "\n</think>\n\n{\"direction\": \"same\", \"ratio\": 1.0}\n"}
+{"task_id": "counterfactual:21", "text": "\n</think>\n\n{\"direction\": \"same\", \"ratio\": 1.0}\n"}
+{"task_id": "counterfactual:22", "text": "\n</think>\n\n{\"direction\": \"increase\", \"ratio\": 1.88}\n"}
+{"task_id": "counterfactual:23", "text": "\n</think>\n\n{\"direction\": \"same\", \"ratio\": 1.0}\n"}
+{"task_id": "counterfactual:25", "text": "\n</think>\n\n{\"direction\": \"increase\", \"ratio\": 1.43}\n"}
+{"task_id": "counterfactual:26", "text": "\n</think>\n\n{\"direction\": \"same\", \"ratio\": 1.0}\n"}
+{"task_id": "counterfactual:28", "text": "\n</think>\n\n{\"direction\": \"same\", \"ratio\": 1.0}\n"}
+{"task_id": "counterfactual:29", "text": "\n</think>\n\n{\"direction\": \"same\", \"ratio\": 1.01}\n"}
+{"task_id": "counterfactual:30", "text": "\n</think>\n\n{\"direction\": \"same\", \"ratio\": 1.0}\n"}
+{"task_id": "counterfactual:31", "text": "\n</think>\n\n{\"direction\": \"same\", \"ratio\": 1.01}\n"}
+{"task_id": "counterfactual:32", "text": "\n</think>\n\n{\"direction\": \"same\", \"ratio\": 1.0}\n"}
+{"task_id": "counterfactual:34", "text": "\n</think>\n\n{\"direction\": \"same\", \"ratio\": 1.01}\n"}
+{"task_id": "counterfactual:37", "text": "\n</think>\n\n{\"direction\": \"decrease\", \"ratio\": 0.528}\n"}
+{"task_id": "counterfactual:38", "text": "\n</think>\n\n{\"direction\": \"increase\", \"ratio\": 1.88}\n"}
+{"task_id": "counterfactual:39", "text": "\n</think>\n\n{\"direction\": \"same\", \"ratio\": 1.01}\n"}
+{"task_id": "counterfactual:42", "text": "\n</think>\n\n{\"direction\": \"same\", \"ratio\": 0.993}\n"}
+{"task_id": "counterfactual:43", "text": "\n</think>\n\n{\"direction\": \"decrease\", \"ratio\": 0.254}\n"}
+{"task_id": "counterfactual:44", "text": "\n</think>\n\n{\"direction\": \"same\", \"ratio\": 1.0}\n"}
+{"task_id": "counterfactual:45", "text": "\n</think>\n\n{\"direction\": \"same\", \"ratio\": 1.01}\n"}
+{"task_id": "counterfactual:46", "text": "\n</think>\n\n{\"direction\": \"decrease\", \"ratio\": 0.0901}\n"}
+{"task_id": "counterfactual:47", "text": "\n</think>\n\n{\"direction\": \"decrease\", \"ratio\": 0.473}\n"}
+{"task_id": "counterfactual:48", "text": "\n</think>\n\n{\"direction\": \"decrease\", \"ratio\": 0.573}\n"}
+{"task_id": "counterfactual:49", "text": "\n</think>\n\n{\"direction\": \"increase\", \"ratio\": 5.92}\n"}
+{"task_id": "counterfactual:50", "text": "\n</think>\n\n{\"direction\": \"increase\", \"ratio\": 1.13}\n"}
+{"task_id": "counterfactual:51", "text": "\n</think>\n\n{\"direction\": \"same\", \"ratio\": 0.999}\n"}
+{"task_id": "counterfactual:52", "text": "\n</think>\n\n{\"direction\": \"decrease\", \"ratio\": 0.475}\n"}
+{"task_id": "counterfactual:53", "text": "\n</think>\n\n{\"direction\": \"same\", \"ratio\": 1.0}\n"}
+{"task_id": "counterfactual:54", "text": "\n</think>\n\n{\"direction\": \"decrease\", \"ratio\": 0.795}\n"}
+{"task_id": "counterfactual:55", "text": "\n</think>\n\n{\"direction\": \"decrease\", \"ratio\": 0.201}\n"}
+{"task_id": "counterfactual:56", "text": "\n</think>\n\n{\"direction\": \"same\", \"ratio\": 1.02}\n"}
+{"task_id": "counterfactual:57", "text": "\n</think>\n\n{\"direction\": \"same\", \"ratio\": 1.0}\n"}
+{"task_id": "counterfactual:58", "text": "\n</think>\n\n{\"direction\": \"same\", \"ratio\": 0.999}\n"}
+{"task_id": "counterfactual:59", "text": "\n</think>\n\n{\"direction\": \"same\", \"ratio\": 0.993}\n"}
+{"task_id": "counterfactual:60", "text": "\n</think>\n\n{\"direction\": \"decrease\", \"ratio\": 0.13}\n"}
+{"task_id": "counterfactual:61", "text": "\n</think>\n\n{\"direction\": \"same\", \"ratio\": 1.01}\n"}
+{"task_id": "counterfactual:62", "text": "\n</think>\n\n{\"direction\": \"same\", \"ratio\": 1.01}\n"}
+{"task_id": "counterfactual:63", "text": "\n</think>\n\n{\"direction\": \"same\", \"ratio\": 1.0}\n"}
+{"task_id": "counterfactual:64", "text": "\n</think>\n\n{\"direction\": \"increase\", \"ratio\": 2.75}\n"}
+{"task_id": "counterfactual:65", "text": "\n</think>\n\n{\"direction\": \"decrease\", \"ratio\": 0.251}\n"}
+{"task_id": "counterfactual:66", "text": "\n</think>\n\n{\"direction\": \"decrease\", \"ratio\": 0.525}\n"}
+{"task_id": "counterfactual:67", "text": "\n</think>\n\n{\"direction\": \"same\", \"ratio\": 0.998}\n"}
+{"task_id": "counterfactual:68", "text": "\n</think>\n\n{\"direction\": \"decrease\", \"ratio\": 0.565}\n"}
+{"task_id": "counterfactual:69", "text": "\n</think>\n\n{\"direction\": \"increase\", \"ratio\": 21.4}\n"}
+{"task_id": "counterfactual:70", "text": "\n</think>\n\n{\"direction\": \"same\", \"ratio\": 0.994}\n"}
+{"task_id": "counterfactual:71", "text": "\n</think>\n\n{\"direction\": \"decrease\", \"ratio\": 0.203}\n"}
+{"task_id": "counterfactual:72", "text": "\n</think>\n\n{\"direction\": \"increase\", \"ratio\": 27.9}\n"}
+{"task_id": "counterfactual:73", "text": "\n</think>\n\n{\"direction\": \"increase\", \"ratio\": 15.2}\n"}
+{"task_id": "counterfactual:74", "text": "\n</think>\n\n{\"direction\": \"same\", \"ratio\": 0.999}\n"}
+{"task_id": "counterfactual:75", "text": "\n</think>\n\n{\"direction\": \"same\", \"ratio\": 0.967}\n"}
+{"task_id": "counterfactual:76", "text": "\n</think>\n\n{\"direction\": \"decrease\", \"ratio\": 0.465}\n"}
+{"task_id": "counterfactual:77", "text": "\n</think>\n\n{\"direction\": \"decrease\", \"ratio\": 0.364}\n"}
+{"task_id": "counterfactual:78", "text": "\n</think>\n\n{\"direction\": \"decrease\", \"ratio\": 0.254}\n"}
+{"task_id": "counterfactual:79", "text": "\n</think>\n\n{\"direction\": \"increase\", \"ratio\": 2.93}\n"}
+{"task_id": "counterfactual:80", "text": "\n</think>\n\n{\"direction\": \"same\", \"ratio\": 0.994}\n"}
+{"task_id": "counterfactual:81", "text": "\n</think>\n\n{\"direction\": \"same\", \"ratio\": 1.0}\n"}
+{"task_id": "counterfactual:82", "text": "\n</think>\n\n{\"direction\": \"increase\", \"ratio\": 88.5}\n"}
+{"task_id": "counterfactual:83", "text": "\n</think>\n\n{\"direction\": \"same\", \"ratio\": 1.0}\n"}
+{"task_id": "counterfactual:84", "text": "\n</think>\n\n{\"direction\": \"increase\", \"ratio\": 3.97}\n"}
+{"task_id": "counterfactual:85", "text": "\n</think>\n\n{\"direction\": \"increase\", \"ratio\": 21.4}\n"}
+{"task_id": "counterfactual:86", "text": "\n</think>\n\n{\"direction\": \"increase\", \"ratio\": 1.43}\n"}
+{"task_id": "counterfactual:87", "text": "\n</think>\n\n{\"direction\": \"decrease\", \"ratio\": 0.293}\n"}
+{"task_id": "counterfactual:88", "text": "\n</think>\n\n{\"direction\": \"decrease\", \"ratio\": 0.528}\n"}
+{"task_id": "counterfactual:89", "text": "\n</think>\n\n{\"direction\": \"decrease\", \"ratio\": 0.696}\n"}
+{"task_id": "counterfactual:90", "text": "\n</think>\n\n{\"direction\": \"same\", \"ratio\": 1.0}\n"}
+{"task_id": "counterfactual:91", "text": "\n</think>\n\n{\"direction\": \"increase\", \"ratio\": 2.91}\n"}
+{"task_id": "counterfactual:92", "text": "\n</think>\n\n{\"direction\": \"decrease\", \"ratio\": 0.765}\n"}
+{"task_id": "counterfactual:93", "text": "\n</think>\n\n{\"direction\": \"increase\", \"ratio\": 4.15}\n"}
+{"task_id": "counterfactual:94", "text": "\n</think>\n\n{\"direction\": \"decrease\", \"ratio\": 0.573}\n"}
+{"task_id": "counterfactual:95", "text": "\n</think>\n\n{\"direction\": \"decrease\", \"ratio\": 0.251}\n"}
+{"task_id": "counterfactual:96", "text": "\n</think>\n\n{\"direction\": \"decrease\", \"ratio\": 0.364}\n"}
+{"task_id": "counterfactual:97", "text": "\n</think>\n\n{\"direction\": \"decrease\", \"ratio\": 0.0467}\n"}
+{"task_id": "counterfactual:98", "text": "\n</think>\n\n{\"direction\": \"increase\", \"ratio\": 3.96}\n"}
+{"task_id": "counterfactual:99", "text": "\n</think>\n\n{\"direction\": \"decrease\", \"ratio\": 0.321}\n"}
+{"task_id": "counterfactual:100", "text": "\n</think>\n\n{\"direction\": \"decrease\", \"ratio\": 0.465}\n"}
+{"task_id": "counterfactual:101", "text": "\n</think>\n\n{\"direction\": \"same\", \"ratio\": 1.0}\n"}
+{"task_id": "counterfactual:103", "text": "\n</think>\n\n{\"direction\": \"increase\", \"ratio\": 1.89}\n"}
+{"task_id": "counterfactual:109", "text": "\n</think>\n\n{\"direction\": \"same\", \"ratio\": 1.0}\n"}
+{"task_id": "counterfactual:110", "text": "\n</think>\n\n{\"direction\": \"increase\", \"ratio\": 1.44}\n"}
+{"task_id": "counterfactual:111", "text": "\n</think>\n\n{\"direction\": \"decrease\", \"ratio\": 0.737}\n"}
+{"task_id": "counterfactual:114", "text": "\n</think>\n\n{\"direction\": \"increase\", \"ratio\": 1.44}\n"}
+{"task_id": "counterfactual:116", "text": "\n</think>\n\n{\"direction\": \"increase\", \"ratio\": 24.5}\n"}
+{"task_id": "counterfactual:117", "text": "\n</think>\n\n{\"direction\": \"same\", \"ratio\": 0.997}\n"}
+{"task_id": "counterfactual:118", "text": "\n</think>\n\n{\"direction\": \"increase\", \"ratio\": 1.43}\n"}
+{"task_id": "counterfactual:119", "text": "\n</think>\n\n{\"direction\": \"same\", \"ratio\": 0.998}\n"}
+{"task_id": "counterfactual:121", "text": "\n</think>\n\n{\"direction\": \"decrease\", \"ratio\": 0.727}\n"}
+{"task_id": "counterfactual:125", "text": "\n</think>\n\n{\"direction\": \"increase\", \"ratio\": 1.89}\n"}
+{"task_id": "counterfactual:128", "text": "\n</think>\n\n{\"direction\": \"decrease\", \"ratio\": 0.0413}\n"}
+{"task_id": "counterfactual:129", "text": "\n</think>\n\n{\"direction\": \"decrease\", \"ratio\": 0.146}\n"}
+{"task_id": "counterfactual:130", "text": "\n</think>\n\n{\"direction\": \"same\", \"ratio\": 1.0}\n"}
+{"task_id": "counterfactual:131", "text": "\n</think>\n\n{\"direction\": \"same\", \"ratio\": 1.0}\n"}
+{"task_id": "counterfactual:132", "text": "\n</think>\n\n{\"direction\": \"decrease\", \"ratio\": 0.733}\n"}
+{"task_id": "counterfactual:133", "text": "\n</think>\n\n{\"direction\": \"increase\", \"ratio\": 3.89}\n"}
+{"task_id": "counterfactual:134", "text": "\n</think>\n\n{\"direction\": \"decrease\", \"ratio\": 0.131}\n"}
+{"task_id": "counterfactual:135", "text": "\n</think>\n\n{\"direction\": \"same\", \"ratio\": 1.0}\n"}
+{"task_id": "counterfactual:136", "text": "\n</think>\n\n{\"direction\": \"decrease\", \"ratio\": 0.131}\n"}
+{"task_id": "counterfactual:137", "text": "\n</think>\n\n{\"direction\": \"same\", \"ratio\": 1.01}\n"}
+{"task_id": "counterfactual:138", "text": "\n</think>\n\n{\"direction\": \"same\", \"ratio\": 0.989}\n"}
+{"task_id": "counterfactual:139", "text": "\n</think>\n\n{\"direction\": \"increase\", \"ratio\": 1.53}\n"}
+{"task_id": "counterfactual:140", "text": "\n</think>\n\n{\"direction\": \"increase\", \"ratio\": 1.98}\n"}
+{"task_id": "counterfactual:141", "text": "\n</think>\n\n{\"direction\": \"increase\", \"ratio\": 1.89}\n"}
+{"task_id": "counterfactual:142", "text": "\n</think>\n\n{\"direction\": \"increase\", \"ratio\": 2.0}\n"}
+{"task_id": "counterfactual:143", "text": "\n</think>\n\n{\"direction\": \"decrease\", \"ratio\": 0.504}\n"}
+{"task_id": "counterfactual:144", "text": "\n</think>\n\n{\"direction\": \"increase\", \"ratio\": 3.11}\n"}
+{"task_id": "counterfactual:145", "text": "\n</think>\n\n{\"direction\": \"increase\", \"ratio\": 2.94}\n"}
+{"task_id": "counterfactual:146", "text": "\n</think>\n\n{\"direction\": \"increase\", \"ratio\": 1.97}\n"}
+{"task_id": "counterfactual:147", "text": "\n</think>\n\n{\"direction\": \"same\", \"ratio\": 1.02}\n"}
+{"task_id": "counterfactual:148", "text": "\n</think>\n\n{\"direction\": \"increase\", \"ratio\": 1.89}\n"}
+{"task_id": "counterfactual:149", "text": "\n</think>\n\n{\"direction\": \"increase\", \"ratio\": 4.17}\n"}
+{"task_id": "counterfactual:150", "text": "\n</think>\n\n{\"direction\": \"decrease\", \"ratio\": 0.73}\n"}
+{"task_id": "counterfactual:151", "text": "\n</think>\n\n{\"direction\": \"increase\", \"ratio\": 1.85}\n"}
+{"task_id": "counterfactual:152", "text": "\n</think>\n\n{\"direction\": \"same\", \"ratio\": 1.0}\n"}
+{"task_id": "counterfactual:153", "text": "\n</think>\n\n{\"direction\": \"increase\", \"ratio\": 3.74}\n"}
+{"task_id": "counterfactual:154", "text": "\n</think>\n\n{\"direction\": \"increase\", \"ratio\": 1.87}\n"}
+{"task_id": "counterfactual:155", "text": "\n</think>\n\n{\"direction\": \"same\", \"ratio\": 0.967}\n"}
+{"task_id": "counterfactual:156", "text": "\n</think>\n\n{\"direction\": \"increase\", \"ratio\": 3.92}\n"}
+{"task_id": "counterfactual:157", "text": "\n</think>\n\n{\"direction\": \"same\", \"ratio\": 1.0}\n"}
+{"task_id": "counterfactual:158", "text": "\n</think>\n\n{\"direction\": \"increase\", \"ratio\": 7.74}\n"}
+{"task_id": "counterfactual:159", "text": "\n</think>\n\n{\"direction\": \"same\", \"ratio\": 1.0}\n"}
+{"task_id": "counterfactual:160", "text": "\n</think>\n\n{\"direction\": \"decrease\", \"ratio\": 0.131}\n"}
+{"task_id": "counterfactual:161", "text": "\n</think>\n\n{\"direction\": \"decrease\", \"ratio\": 0.706}\n"}
+{"task_id": "quantitative:0", "text": "\n</think>\n\n{\"value\": 3.656}\n"}
+{"task_id": "quantitative:1", "text": "\n</think>\n\n{\"value\": 41.0}\n"}
+{"task_id": "quantitative:2", "text": "\n</think>\n\n{\"value\": 15.76}\n"}
+{"task_id": "quantitative:3", "text": "\n</think>\n\n{\"value\": 95.62}\n"}
+{"task_id": "quantitative:4", "text": "\n</think>\n\n{\"value\": 12.78}\n"}
+{"task_id": "quantitative:5", "text": "\n</think>\n\n{\"value\": 161.1}\n"}
+{"task_id": "quantitative:6", "text": "\n</think>\n\n{\"value\": 161.1}\n"}
+{"task_id": "quantitative:7", "text": "\n</think>\n\n{\"value\": 13.9}\n"}
+{"task_id": "quantitative:8", "text": "\n</think>\n\n{\"value\": 160.4}\n"}
+{"task_id": "quantitative:9", "text": "\n</think>\n\n{\"value\": 1.92}\n"}
+{"task_id": "quantitative:10", "text": "\n</think>\n\n{\"value\": 47.36}\n"}
+{"task_id": "quantitative:11", "text": "\n</think>\n\n{\"value\": 13.2}\n"}
+{"task_id": "quantitative:12", "text": "\n</think>\n\n{\"value\": 95.62}\n"}
+{"task_id": "quantitative:13", "text": "\n</think>\n\n{\"value\": 365.6}\n"}
+{"task_id": "quantitative:14", "text": "\n</think>\n\n{\"value\": 11.06}\n"}
+{"task_id": "quantitative:15", "text": "\n</think>\n\n{\"value\": 40.81}\n"}
+{"task_id": "quantitative:16", "text": "\n</think>\n\n{\"value\": 40.91}\n"}
+{"task_id": "quantitative:17", "text": "\n</think>\n\n{\"value\": 10.01}\n"}
+{"task_id": "quantitative:18", "text": "\n</think>\n\n{\"value\": 40.8}\n"}
+{"task_id": "quantitative:19", "text": "\n</think>\n\n{\"value\": 95.62}\n"}
+{"task_id": "quantitative:20", "text": "\n</think>\n\n{\"value\": 91.92}\n"}
+{"task_id": "quantitative:21", "text": "\n</think>\n\n{\"value\": 81.0}\n"}
+{"task_id": "quantitative:22", "text": "\n</think>\n\n{\"value\": 93.9}\n"}
+{"task_id": "quantitative:23", "text": "\n</think>\n\n{\"value\": 10.6}\n"}
+{"task_id": "quantitative:24", "text": "\n</think>\n\n{\"value\": 161.1}\n"}
+{"task_id": "quantitative:25", "text": "\n</think>\n\n{\"value\": 95.62}\n"}
+{"task_id": "quantitative:26", "text": "\n</think>\n\n{\"value\": 1.56}\n"}
+{"task_id": "quantitative:27", "text": "\n</think>\n\n{\"value\": 160.4}\n"}
+{"task_id": "quantitative:28", "text": "\n</think>\n\n{\"value\": 80.76}\n"}
+{"task_id": "quantitative:29", "text": "\n</think>\n\n{\"value\": 151.6}\n"}
+{"task_id": "quantitative:30", "text": "\n</think>\n\n{\"value\": 224.8}\n"}
+{"task_id": "quantitative:31", "text": "\n</think>\n\n{\"value\": 385.6}\n"}
+{"task_id": "quantitative:32", "text": "\n</think>\n\n{\"value\": 10.44}\n"}
+{"task_id": "quantitative:33", "text": "\n</think>\n\n{\"value\": 80.78}\n"}
+{"task_id": "quantitative:34", "text": "\n</think>\n\n{\"value\": 40.48}\n"}
+{"task_id": "quantitative:35", "text": "\n</think>\n\n{\"value\": 80.91}\n"}
+{"task_id": "quantitative:36", "text": "\n</think>\n\n{\"value\": 160.4}\n"}
+{"task_id": "quantitative:37", "text": "\n</think>\n\n{\"value\": 80.48}\n"}
+{"task_id": "quantitative:38", "text": "\n</think>\n\n{\"value\": 95.62}\n"}
+{"task_id": "quantitative:39", "text": "\n</think>\n\n{\"value\": 1.56}\n"}
+{"task_id": "quantitative:40", "text": "\n</think>\n\n{\"value\": 146.7}\n"}
+{"task_id": "quantitative:42", "text": "\n</think>\n\n{\"value\": 104.1}\n"}
+{"task_id": "quantitative:43", "text": "\n</think>\n\n{\"value\": 149.1}\n"}
+{"task_id": "quantitative:44", "text": "\n</think>\n\n{\"value\": 20.48}\n"}
+{"task_id": "quantitative:47", "text": "\n</think>\n\n{\"value\": 80.94}\n"}
+{"task_id": "quantitative:50", "text": "\n</think>\n\n{\"value\": 81.0}\n"}
+{"task_id": "quantitative:52", "text": "\n</think>\n\n{\"value\": 101.8}\n"}
+{"task_id": "quantitative:53", "text": "\n</think>\n\n{\"value\": 80.78}\n"}
+{"task_id": "quantitative:55", "text": "\n</think>\n\n{\"value\": 104.1}\n"}
+{"task_id": "quantitative:56", "text": "\n</think>\n\n{\"value\": 10.6}\n"}
+{"task_id": "quantitative:58", "text": "\n</think>\n\n{\"value\": 91.96}\n"}
+{"task_id": "quantitative:61", "text": "\n</think>\n\n{\"value\": 3.656}\n"}
+{"task_id": "quantitative:64", "text": "\n</think>\n\n{\"value\": 44.46}\n"}
+{"task_id": "quantitative:65", "text": "\n</think>\n\n{\"value\": 3.072}\n"}
+{"task_id": "quantitative:66", "text": "\n</think>\n\n{\"value\": 81.01}\n"}
+{"task_id": "quantitative:67", "text": "\n</think>\n\n{\"value\": 20.48}\n"}
+{"task_id": "quantitative:69", "text": "\n</think>\n\n{\"value\": 40.91}\n"}
+{"task_id": "quantitative:71", "text": "\n</think>\n\n{\"value\": 93.94}\n"}
+{"task_id": "quantitative:74", "text": "\n</think>\n\n{\"value\": 101.8}\n"}
+{"task_id": "quantitative:78", "text": "\n</think>\n\n{\"value\": 10.6}\n"}
+{"task_id": "quantitative:79", "text": "\n</think>\n\n{\"value\": 161.7}\n"}
+{"task_id": "quantitative:81", "text": "\n</think>\n\n{\"value\": 80.79}\n"}
+{"task_id": "quantitative:83", "text": "\n</think>\n\n{\"value\": 29.4}\n"}
+{"task_id": "quantitative:84", "text": "\n</think>\n\n{\"value\": 103.2}\n"}
+{"task_id": "quantitative:86", "text": "\n</think>\n\n{\"value\": 91.96}\n"}
+{"task_id": "quantitative:89", "text": "\n</think>\n\n{\"value\": 10.6}\n"}

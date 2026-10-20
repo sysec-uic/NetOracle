@@ -1,0 +1,45 @@
+% Standalone build of the paper's Figure 3 (the query/gate listing).
+% Compile: pdflatex fig_listing.tex ; then copy fig_listing.pdf to
+% overleaf-hotnets/figures/. Box width matches the column (8.45cm).
+\documentclass[border=1pt]{standalone}
+\usepackage[T1]{fontenc}
+\usepackage[varqu,varl]{zi4}% inconsolata, same tt font as acmart
+\usepackage{xcolor}
+\usepackage{fancyvrb}
+\usepackage{tcolorbox}
+\definecolor{palPlum}{HTML}{34183E}
+\definecolor{palBlue}{HTML}{4D779B}
+\definecolor{palGray}{HTML}{585D5E}
+\definecolor{palTeal}{HTML}{2E8B7F}
+\newcommand{\lstgray}[1]{\textcolor{palGray}{#1}}
+\newcommand{\lstplum}[1]{\textcolor{palPlum}{#1}}
+\newcommand{\lstblue}[1]{\textcolor{palBlue}{#1}}
+\newcommand{\lstteal}[1]{\textcolor{palTeal}{#1}}
+\begin{document}
+\begin{SaveVerbatim}[commandchars=\\\[\]]{lstquery}
+\lstgray[A measured run on this testbed:]
+- workload=bulk cc=cubic qdisc=pfifo_deep
+  rtt=40ms loss=0.5% bw=50Mbit buf=ample
+  -> goodput_mbps=4.803 retransmits=21
+     cwnd_mid=18 srtt_mid_ms=40.259
+
+\lstplum[Now exactly one knob changes:]
+\lstplum[`cc` goes from cubic to bbr.]
+\lstplum[Predict the effect on goodput_mbps ...]
+
+\lstgray[model, 5 samples at temperature 0.8:]
+\lstblue[ {"direction":"increase","ratio":3.41}]
+\lstblue[ {"direction":"increase","ratio":4.78}]
+\lstblue[ {"direction":"increase","ratio":5.85}]
+\lstblue[ {"direction":"increase","ratio":7.16}]
+\lstblue[ {"direction":"increase","ratio":4.57}]
+
+\lstteal[gate: 5/5 votes, median 4.78x > 1.15]
+\lstteal[ -> move to bbr]   \lstgray[(measured: 9.7x)]
+\end{SaveVerbatim}
+\begin{tcolorbox}[colback=palBlue!4!white, colframe=palBlue,
+  boxrule=0.4pt, leftrule=2.5pt, arc=1.5pt, left=4pt, right=2pt,
+  top=3pt, bottom=3pt, width=8.45cm]
+\footnotesize\BUseVerbatim[fontsize=\footnotesize]{lstquery}
+\end{tcolorbox}
+\end{document}

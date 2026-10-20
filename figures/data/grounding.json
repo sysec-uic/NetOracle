@@ -1,0 +1,125 @@
+{
+ "levels": [
+  "L0",
+  "L1",
+  "L2",
+  "L3"
+ ],
+ "models": {
+  "Gemma4 31B": {
+   "L0": {
+    "ranking": 0.2051,
+    "counterfactual": 0.6914,
+    "quantitative": 0.4667
+   },
+   "L1": {
+    "ranking": 0.2256,
+    "counterfactual": 0.6667,
+    "quantitative": 0.4111
+   },
+   "L2": {
+    "ranking": 0.2231,
+    "counterfactual": 0.8704,
+    "quantitative": 0.7444
+   },
+   "L3": {
+    "ranking": 0.2231,
+    "counterfactual": 0.8519,
+    "quantitative": 0.6778
+   }
+  },
+  "Gemma4 8B": {
+   "L0": {
+    "ranking": 0.0385,
+    "counterfactual": 0.5556,
+    "quantitative": 0.5333
+   },
+   "L1": {
+    "ranking": 0.0462,
+    "counterfactual": 0.6049,
+    "quantitative": 0.4231
+   },
+   "L2": {
+    "ranking": 0.1513,
+    "counterfactual": 0.679,
+    "quantitative": 0.5889
+   },
+   "L3": {
+    "ranking": 0.1667,
+    "counterfactual": 0.6481,
+    "quantitative": 0.6333
+   }
+  },
+  "GLM-4.7-Flash": {
+   "L0": {
+    "ranking": 0.1128,
+    "counterfactual": 0.5123,
+    "quantitative": 0.1529
+   },
+   "L1": {
+    "ranking": 0.1641,
+    "counterfactual": 0.4877,
+    "quantitative": 0.1585
+   },
+   "L2": {
+    "ranking": 0.1256,
+    "counterfactual": 0.642,
+    "quantitative": 0.6111
+   },
+   "L3": {
+    "ranking": 0.1667,
+    "counterfactual": 0.6173,
+    "quantitative": 0.6
+   }
+  },
+  "Qwen3.5 35B": {
+   "L0": {
+    "ranking": 0.1718,
+    "counterfactual": 0.4907,
+    "quantitative": 0.1556
+   },
+   "L1": {
+    "ranking": -0.0231,
+    "counterfactual": 0.4472,
+    "quantitative": 0.2169
+   },
+   "L2": {
+    "ranking": 0.2205,
+    "counterfactual": 0.673,
+    "quantitative": 0.6629
+   },
+   "L3": {
+    "ranking": 0.0667,
+    "counterfactual": 0.6087,
+    "quantitative": 0.618
+   }
+  },
+  "Qwen3.5 9.7B": {
+   "L0": {
+    "ranking": 0.0795,
+    "counterfactual": 0.4969,
+    "quantitative": 0.4831
+   },
+   "L1": {
+    "ranking": -0.0795,
+    "counterfactual": 0.4815,
+    "quantitative": 0.5222
+   },
+   "L2": {
+    "ranking": 0.1385,
+    "counterfactual": 0.7438,
+    "quantitative": 0.6279
+   },
+   "L3": {
+    "ranking": 0.1923,
+    "counterfactual": 0.5963,
+    "quantitative": 0.5814
+   }
+  }
+ },
+ "knn_L2": {
+  "ranking": 0.2154,
+  "counterfactual": 0.6975,
+  "quantitative": 0.5222
+ }
+}

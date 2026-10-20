@@ -1,0 +1,38 @@
+[
+ {
+  "env": "bulk_r40_l0.5_b50",
+  "metric": "goodput_mbps",
+  "oracle": 46.551,
+  "hillclimb": 46.551,
+  "hillclimb_measurements": 3,
+  "random_k3_expected": 26.32,
+  "random_k10_expected": 40.61
+ },
+ {
+  "env": "mixed_r40_l2.0_b100",
+  "metric": "rr_p99_ms",
+  "oracle": 40.85357999429107,
+  "hillclimb": 40.93138998723589,
+  "hillclimb_measurements": 3,
+  "random_k3_expected": 129.91,
+  "random_k10_expected": 47.27
+ },
+ {
+  "env": "bulk_r160_l0.5_b100",
+  "metric": "goodput_mbps",
+  "oracle": 90.789,
+  "hillclimb": 90.289,
+  "hillclimb_measurements": 3,
+  "random_k3_expected": 27.74,
+  "random_k10_expected": 63.31
+ },
+ {
+  "env": "mixed_r160_l0.1_b100",
+  "metric": "rr_p99_ms",
+  "oracle": 160.43668100610375,
+  "hillclimb": 161.12490301020443,
+  "hillclimb_measurements": 3,
+  "random_k3_expected": 160.88,
+  "random_k10_expected": 160.6
+ }
+]

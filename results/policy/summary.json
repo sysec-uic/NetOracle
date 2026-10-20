@@ -1,0 +1,110 @@
+[
+ {
+  "env": "bulk_r40_l0.5_b50",
+  "metric": "goodput_mbps",
+  "model": 46.153,
+  "knn": 46.551,
+  "default": 4.803,
+  "oracle": 46.551,
+  "model_regret": 0.008549762625937214
+ },
+ {
+  "env": "mixed_r40_l2.0_b100",
+  "metric": "rr_p99_ms",
+  "model": 286.93369100801647,
+  "knn": 285.86313399137,
+  "default": 40.93138998723589,
+  "oracle": 40.85357999429107,
+  "model_regret": 6.02346504389855
+ },
+ {
+  "env": "bulk_r120_l0.1_b200",
+  "metric": "goodput_mbps",
+  "model": 189.667,
+  "knn": 185.667,
+  "default": 4.662,
+  "oracle": null,
+  "model_regret": null
+ },
+ {
+  "env": "rr_r80_l0.5_b25",
+  "metric": "rr_p99_ms",
+  "model": 81.1548630008474,
+  "knn": 362.92824801057577,
+  "default": 81.1548630008474,
+  "oracle": null,
+  "model_regret": null
+ },
+ {
+  "env": "mixed_r120_l0.5_b50",
+  "metric": "rr_p99_ms",
+  "model": 121.0667029954493,
+  "knn": 121.14486598875374,
+  "default": 121.0667029954493,
+  "oracle": null,
+  "model_regret": null
+ },
+ {
+  "env": "short_r20_l0.5_b200",
+  "metric": "fct_p95_ms",
+  "model": 104.39100000075996,
+  "knn": 327.44973301305436,
+  "default": 104.23024700139649,
+  "oracle": null,
+  "model_regret": null
+ },
+ {
+  "env": "short_r80_l1.0_b50",
+  "metric": "fct_p95_ms",
+  "model": 687.7984490129165,
+  "knn": 494.9448080151342,
+  "default": 687.7984490129165,
+  "oracle": null,
+  "model_regret": null
+ },
+ {
+  "env": "bulk_r10_l2.0_b100",
+  "metric": "goodput_mbps",
+  "model": 91.427,
+  "knn": 91.538,
+  "default": 7.018,
+  "oracle": null,
+  "model_regret": null
+ },
+ {
+  "env": "bulk_r160_l0.5_b100",
+  "metric": "goodput_mbps",
+  "model": 81.215,
+  "knn": 90.289,
+  "default": 2.994,
+  "oracle": 90.789,
+  "model_regret": 0.10545330381433872
+ },
+ {
+  "env": "mixed_r160_l0.1_b100",
+  "metric": "rr_p99_ms",
+  "model": 280.84406297421083,
+  "knn": 161.32701298920438,
+  "default": 272.613598004682,
+  "oracle": 160.43668100610375,
+  "model_regret": 0.7504978363615377
+ },
+ {
+  "env": "bulk_r20_l0.0_b400",
+  "metric": "goodput_mbps",
+  "model": 382.494,
+  "knn": 382.468,
+  "default": 382.468,
+  "oracle": null,
+  "model_regret": null
+ },
+ {
+  "env": "mixed_r40_l0.5_b400",
+  "metric": "rr_p99_ms",
+  "model": 40.920658997492865,
+  "knn": 41.29387601278722,
+  "default": 40.81649502040818,
+  "oracle": null,
+  "model_regret": null
+ }
+]

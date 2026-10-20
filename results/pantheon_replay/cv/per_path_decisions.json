@@ -1,0 +1,138 @@
+{
+ "Brazil": {
+  "n": 78,
+  "hold": 0.674,
+  "vegas": 0.956,
+  "bbr": 0.722,
+  "base": 0.689,
+  "replayed": 0.959
+ },
+ "Colombia": {
+  "n": 80,
+  "hold": 0.859,
+  "vegas": 0.746,
+  "bbr": 0.864,
+  "base": 0.851,
+  "replayed": 0.907
+ },
+ "Stanford-cellular": {
+  "n": 32,
+  "hold": 0.65,
+  "vegas": 0.692,
+  "bbr": 0.671,
+  "base": 0.694,
+  "replayed": 0.913
+ },
+ "China-ppp0": {
+  "n": 28,
+  "hold": 0.668,
+  "vegas": 0.72,
+  "bbr": 0.837,
+  "base": 0.758,
+  "replayed": 0.792
+ },
+ "Mexico": {
+  "n": 78,
+  "hold": 0.86,
+  "vegas": 0.934,
+  "bbr": 0.785,
+  "base": 0.906,
+  "replayed": 0.973
+ },
+ "Stanford-ppp0": {
+  "n": 20,
+  "hold": 0.653,
+  "vegas": 0.637,
+  "bbr": 0.76,
+  "base": 0.752,
+  "replayed": 0.959
+ },
+ "Colombia-ppp0": {
+  "n": 72,
+  "hold": 0.593,
+  "vegas": 0.866,
+  "bbr": 0.852,
+  "base": 0.742,
+  "replayed": 0.919
+ },
+ "GCE-Iowa": {
+  "n": 80,
+  "hold": 0.884,
+  "vegas": 0.879,
+  "bbr": 0.851,
+  "base": 0.917,
+  "replayed": 0.978
+ },
+ "Saudi-Arabia": {
+  "n": 74,
+  "hold": 0.888,
+  "vegas": 0.814,
+  "bbr": 0.859,
+  "base": 0.858,
+  "replayed": 0.955
+ },
+ "Colombia-cellular": {
+  "n": 64,
+  "hold": 0.575,
+  "vegas": 0.926,
+  "bbr": 0.769,
+  "base": 0.781,
+  "replayed": 0.903
+ },
+ "India-ppp0": {
+  "n": 78,
+  "hold": 0.749,
+  "vegas": 0.888,
+  "bbr": 0.689,
+  "base": 0.734,
+  "replayed": 0.946
+ },
+ "Stanford": {
+  "n": 78,
+  "hold": 0.644,
+  "vegas": 0.706,
+  "bbr": 0.665,
+  "base": 0.739,
+  "replayed": 0.931
+ },
+ "GCE-London": {
+  "n": 78,
+  "hold": 0.896,
+  "vegas": 0.88,
+  "bbr": 0.884,
+  "base": 0.86,
+  "replayed": 0.957
+ },
+ "GCE-Tokyo": {
+  "n": 80,
+  "hold": 0.88,
+  "vegas": 0.876,
+  "bbr": 0.81,
+  "base": 0.913,
+  "replayed": 0.95
+ },
+ "India-cellular": {
+  "n": 70,
+  "hold": 0.707,
+  "vegas": 0.867,
+  "bbr": 0.651,
+  "base": 0.706,
+  "replayed": 0.941
+ },
+ "China": {
+  "n": 74,
+  "hold": 0.741,
+  "vegas": 0.733,
+  "bbr": 0.846,
+  "base": 0.832,
+  "replayed": 0.909
+ },
+ "India": {
+  "n": 78,
+  "hold": 0.714,
+  "vegas": 0.768,
+  "bbr": 0.755,
+  "base": 0.926,
+  "replayed": 0.949
+ }
+}

@@ -1,0 +1,11 @@
+# Core (evaluation, baselines, figures)
+numpy
+scipy
+scikit-learn
+matplotlib
+
+# Training / local inference (GPU recommended)
+torch>=2.4
+transformers>=4.44
+peft>=0.11
+datasets

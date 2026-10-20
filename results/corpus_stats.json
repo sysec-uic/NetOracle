@@ -1,0 +1,15 @@
+{
+ "n_doc_chunks": 64,
+ "n_commits": 21196,
+ "n_threads": 20498,
+ "n_total": 41758,
+ "kernel_commits": 21196,
+ "kernel_fix_commits": 7127,
+ "kernel_range": [
+  "2019-06-05",
+  "2026-06-30"
+ ],
+ "netdev_messages": 170762,
+ "netdev_threads": 24321,
+ "netdev_patch_threads": 21888
+}

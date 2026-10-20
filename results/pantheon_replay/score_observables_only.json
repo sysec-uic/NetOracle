@@ -1,0 +1,37 @@
+{
+ "name": "dietw_r3_os8",
+ "all": [
+  0.6242,
+  2153
+ ],
+ "heldout_nodes": [
+  0.5021,
+  1175
+ ],
+ "deploy_nodes": [
+  0.771,
+  978
+ ],
+ "heldout_tput": [
+  0.5238,
+  588
+ ],
+ "heldout_delay": [
+  0.4804,
+  587
+ ],
+ "heldout_cellular": [
+  0.4233,
+  600
+ ],
+ "heldout_wired": [
+  0.5843,
+  575
+ ],
+ "heldout_1flow": [
+  0.4652,
+  617
+ ],
+ "heldout_nochange": 0.3549,
+ "heldout_prior_from_deploy_nodes": 0.5013
+}

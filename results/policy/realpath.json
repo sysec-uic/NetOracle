@@ -1,0 +1,99 @@
+[
+ {
+  "env": "mixed_wan_b15",
+  "metric": "rr_p99_ms",
+  "better": "lower",
+  "steps": [
+   {
+    "config": "cubic/pfifo_deep/ample",
+    "metrics": {
+     "rr_p50_ms": 238.838,
+     "rr_p99_ms": 409.187,
+     "goodput_mbps": 14.045
+    },
+    "move": "cubic/fq_codel/ample",
+    "predicted_gain": 12.887
+   },
+   {
+    "config": "cubic/fq_codel/ample",
+    "metrics": {
+     "rr_p50_ms": 33.243,
+     "rr_p99_ms": 43.157,
+     "goodput_mbps": 13.331
+    },
+    "move": null,
+    "predicted_gain": null
+   }
+  ],
+  "final_config": "cubic/fq_codel/ample",
+  "final": {
+   "rr_p50_ms": 33.243,
+   "rr_p99_ms": 43.157,
+   "goodput_mbps": 13.331
+  }
+ },
+ {
+  "env": "mixed_wan_b8",
+  "metric": "rr_p99_ms",
+  "better": "lower",
+  "steps": [
+   {
+    "config": "cubic/pfifo_deep/ample",
+    "metrics": {
+     "rr_p50_ms": 310.799,
+     "rr_p99_ms": 665.145,
+     "goodput_mbps": 7.506
+    },
+    "move": "reno/pfifo_deep/ample",
+    "predicted_gain": 21.119
+   },
+   {
+    "config": "reno/pfifo_deep/ample",
+    "metrics": {
+     "rr_p50_ms": 511.249,
+     "rr_p99_ms": 655.804,
+     "goodput_mbps": 7.535
+    },
+    "move": "reno/cake/ample",
+    "predicted_gain": 20.408
+   },
+   {
+    "config": "reno/cake/ample",
+    "metrics": {
+     "rr_p50_ms": 33.775,
+     "rr_p99_ms": 38.673,
+     "goodput_mbps": 6.447
+    },
+    "move": null,
+    "predicted_gain": null
+   }
+  ],
+  "final_config": "reno/cake/ample",
+  "final": {
+   "rr_p50_ms": 33.775,
+   "rr_p99_ms": 38.673,
+   "goodput_mbps": 6.447
+  }
+ },
+ {
+  "env": "bulk_wan_b15",
+  "metric": "goodput_mbps",
+  "better": "higher",
+  "steps": [
+   {
+    "config": "cubic/pfifo_deep/ample",
+    "metrics": {
+     "goodput_mbps": 14.06,
+     "retransmits": 17
+    },
+    "move": null,
+    "predicted_gain": null
+   }
+  ],
+  "final_config": "cubic/pfifo_deep/ample",
+  "final": {
+   "goodput_mbps": 14.06,
+   "retransmits": 17
+  }
+ }
+]
