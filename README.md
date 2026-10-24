@@ -113,8 +113,34 @@ sudo -E python3 scripts/daemon_phase.py    # three-phase tracking (Fig. 5)
 - `dataset/pantheon/tasks.jsonl` — 2,153 counterfactual tasks derived
   from the public Pantheon archive (regenerate with
   `scripts/pantheon_fetch.py` + `scripts/pantheon_tasks.py`).
-- Model weights are not in this repo (size); training is cheap enough
-  to reproduce from scratch with the commands above.
+- `dataset/stackbench/` — the 278 StackBench tasks and the 218
+  leakage-clean task ids used in the paper's Table 1.
+
+### Released models
+
+The LoRA adapters from the paper are on Hugging Face:
+**https://huggingface.co/Haku247/NetOracle**
+
+| Folder | Base model | Seeds |
+|---|---|---|
+| `netoracle-0.8b/seed{41,42,43}` | `Qwen/Qwen3.5-0.8B` | 3 |
+| `netoracle-2b/seed{41,42,43}` | `Qwen/Qwen3.5-2B` | 3 |
+| `netoracle-9b/seed41` | `Qwen/Qwen3.5-9B` | 1 |
+
+The 0.8B adapters are NetOracle; 2B and 9B are the scale study. All were
+trained on `dataset/ft-all` with `scripts/train_lora.py`. To run one on the
+paper's evaluation prompts:
+
+```bash
+huggingface-cli download Haku247/NetOracle --include "netoracle-0.8b/seed41/*" --local-dir models
+python3 scripts/ft_eval_io.py export
+python3 scripts/batch_generate.py --model Qwen/Qwen3.5-0.8B \
+    --adapter models/netoracle-0.8b/seed41 \
+    --prompts dataset/ft/eval_prompts.jsonl --out gen.jsonl
+```
+
+Training is also cheap enough to reproduce from scratch (about 20 minutes
+per 0.8B run on one consumer GPU).
 
 ## License
 
@@ -133,6 +159,7 @@ Networks (HotNets '26)*, Salt Lake City, UT, USA, November 2026.
   booktitle = {Proceedings of the 25th ACM Workshop on Hot Topics in Networks (HotNets '26)},
   year      = {2026},
   address   = {Salt Lake City, UT, USA},
-  publisher = {ACM}
+  publisher = {ACM},
+  doi       = {10.1145/3847290.3859973}
 }
 ```
